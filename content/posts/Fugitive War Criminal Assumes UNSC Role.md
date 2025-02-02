@@ -3,15 +3,13 @@ date: 2023-04-11T03:04:03+03:00
 title: "World Peace Now Secure: Fugitive War Criminal Assumes UN Peacekeeping Chief Role"
 description: "As Russia takes over the UN Security Council presidency, the world confronts the baffling irony of a nation, embroiled in the Ukraine war and led by a convicted war criminal, guiding an organisation entrusted with the preservation of global peace and security."
 author: "Ariana Yekrangi"
-cover: ""
+cover: "https://un-aligned.org/wp-content/uploads/2023/04/Putin-standing-infront-of-russian-army.jpg.webp"
 tags: ["Russia"]
 featured: true
 theme: "dark"
 ---
 
-![nothing]()
-
-As Russia takes over the UN Security Council presidency, the world confronts the baffling irony of a nation, embroiled in the Ukraine war and led by a convicted war criminal, guiding an organisation entrusted with the preservation of global peace and security.
+![Putin standing in front of Russian troops during his New Year’s address to the nation. © CC 4.0|big](https://un-aligned.org/wp-content/uploads/2023/04/Putin-standing-infront-of-russian-army.jpg.webp)
 
 As the adage goes, “truth is stranger than fiction”. Case in point: Russia, the very nation embroiled in a relentless war in Ukraine, has assumed the presidency of the UN Security Council, an institution dedicated to preserving global peace and security.
 
@@ -31,13 +29,11 @@ Despite the incongruity of Russia’s new role, other council members are hesita
 
 As Russia prepares to chair sessions on [“effective multilateralism” and the Middle East](https://www.securitycouncilreport.org/monthly-forecast/2023-04/the-middle-east-including-the-palestinian-question-11.php), the rest of the world will be treated to a masterclass in irony. With only a handful of steadfast allies, Russia seems unfazed by the growing opposition in the UN General Assembly, where around 140 out of 193 member states have voted against Moscow’s position. Russia’s deputy permanent representative, Dmitry Polyanskiy, even argues that it’s the West, not Russia, that’s isolated in the assembly. It’s a fascinating display of diplomatic doublethink.
 
-![Dmitry Polyanskiy speaking at the un](https://un-aligned.org/wp-content/uploads/2023/04/Dmitry-Polyanskiy3.jpg.webp "World Peace Now Secure: Fugitive War Criminal Assumes UN Peacekeeping Chief Role 2")
+![Dmitry Polyanskiy speaking at the UN](https://un-aligned.org/wp-content/uploads/2023/04/Dmitry-Polyanskiy3.jpg.webp "World Peace Now Secure: Fugitive War Criminal Assumes UN Peacekeeping Chief Role 2")
 
 It’s the West, not Russia, that’s isolated in the assembly, said Dmitry Polyanskiy Russia’s UN representative. Photo: UN Press
 
 And what of Vladimir Putin’s arrest warrant for war crimes issued by the International Criminal Court? Polyanskiy dismisses it as “totally irrelevant to any of our activities.” The last time the Russian leader set foot in the UN headquarters was in 2015, so perhaps he’s hoping that out of sight means out of mind.
-
-{{< emailform formID="email-form" buttonText="Subscribe" >}}
 
 The UN Security Council is no stranger to polarisation, but the present situation highlights the growing rift between its permanent members – the US, UK, France, Russia and China – with China increasingly echoing Russia’s talking points. The 10 non-permanent members, elected for two-year terms, often find themselves caught in the crossfire, trying to avoid becoming pawns in the big power games.
 
@@ -45,7 +41,7 @@ Richard Gowan, the UN director at the International Crisis Group, notes that man
 
 The curtain rises on this tragicomic farce at the UN Security Council. Kyslytsya admits that the global community may simply become accustomed to this new level of hypocrisy. “That will be a disgrace,” he concedes. “I think there’s quite a chance that may happen.”
 
-> [The 3 Scenarios of Russia’s Removal from the UN Security Council: A Bleak Future or a Chance for a Fresh Start?](https://un-aligned.org/un-in-focus/the-3-scenarios-of-russias-removal-from-the-un-security-council/)
+[The 3 Scenarios of Russia’s Removal from the UN Security Council: A Bleak Future or a Chance for a Fresh Start?](https://un-aligned.org/un-in-focus/the-3-scenarios-of-russias-removal-from-the-un-security-council/)
 
 ## Dare we ponder the unthinkable?
 

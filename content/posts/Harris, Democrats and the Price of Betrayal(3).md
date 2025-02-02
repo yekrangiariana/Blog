@@ -1,6 +1,6 @@
 ---
 title: "‘Held Hostage No More’: Harris, Democrats and the Price of Betrayal"
-date: 2025-02-02T13:51:42+03:00
+date: 2024-11-07T13:51:42+03:00
 description: "Harris’s defeat is no tragedy; it’s a sliver of justice, a rare rebuke from voters who refuse to reward American indifference to suffering abroad."
 author: "Ariana Yekrangi"
 cover: "/Harris-Democrats-and-the-Price-of-Betrayal.jpg.webp"

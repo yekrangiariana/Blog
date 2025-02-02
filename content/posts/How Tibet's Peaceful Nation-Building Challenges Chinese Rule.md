@@ -1,6 +1,6 @@
 ---
 title: "How Tibet's Peaceful Nation-Building Challenges Chinese Rule"
-date: 2025-02-02T17:35:28+03:00
+date: 2023-11-14T17:35:28+03:00
 description: "Despite relentless conquests, the struggle for Tibet’s sovereignty extends beyond the protection of its heritage; it's a fight for the nation's very spirit, enduring as the mountains that embrace it."
 author: ""
 cover: "https://un-aligned.org/wp-content/uploads/2023/11/How-Tibets-Peaceful-Nation-Building-Challenges-Chinese-Rule.jpg"
