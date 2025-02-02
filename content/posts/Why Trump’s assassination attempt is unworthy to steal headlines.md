@@ -3,13 +3,13 @@ title: "‘Reaping what you sow’: Why Trump’s assassination attempt is unwor
 date: 2024-06-15T13:33:07+03:00
 description: "The shooting in Pennsylvania is the fruit of the toxic tree Trump, and consecutive US administrations, have cultivated. It's time our headlines focus on what actually matters."
 author: "Ariana Yekrangi"
-cover: "/Why-Trumps-assassination-attempt-is-unworthy-to-steal-headlines.webp"
+cover: "static/donald-trump.jpg"
 tags: ["US"]
 theme: “light”
 featured: false
 ---
 
-![Photo: Gage Skidmore © CC BY-SA 2.0|big]("/Why-Trumps-assassination-attempt-is-unworthy-to-steal-headlines.webp")
+![Photo: Gage Skidmore © CC BY-SA 2.0|big]("static/donald-trump.jpg")
 
 Karma often comes with a sting, as the old saying goes. After eight years of stoking division, Donald Trump almost got a taste of the chaos he helped create. He was on the verge of experiencing the kind of horror faced by 378,000 US students who [have died from guns](https://www.washingtonpost.com/education/interactive/school-shootings-database/) since the Columbine High School massacre in 1999.
 
