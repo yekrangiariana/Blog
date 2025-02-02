@@ -4,7 +4,7 @@ date: 2024-06-15T13:33:07+03:00
 description: "The shooting in Pennsylvania is the fruit of the toxic tree Trump, and consecutive US administrations, have cultivated. It's time our headlines focus on what actually matters."
 author: "Ariana Yekrangi"
 cover: "/Why-Trumps-assassination-attempt-is-unworthy-to-steal-headlines.webp"
-tags: []
+tags: ["US"]
 theme: “light”
 featured: false
 ---
