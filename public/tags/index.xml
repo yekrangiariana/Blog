@@ -7,20 +7,62 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Ariana Yekrangi</copyright>
-    <lastBuildDate>Sun, 02 Feb 2025 13:58:15 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 17:35:28 +0300</lastBuildDate>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>China</title>
+      <link>//localhost:1313/tags/china/</link>
+      <pubDate>Sun, 02 Feb 2025 17:35:28 +0300</pubDate>
+      <guid>//localhost:1313/tags/china/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tibet</title>
+      <link>//localhost:1313/tags/tibet/</link>
+      <pubDate>Sun, 02 Feb 2025 17:35:28 +0300</pubDate>
+      <guid>//localhost:1313/tags/tibet/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Gaza</title>
       <link>//localhost:1313/tags/gaza/</link>
-      <pubDate>Sun, 02 Feb 2025 13:58:15 +0300</pubDate>
+      <pubDate>Sun, 02 Feb 2025 17:32:52 +0300</pubDate>
       <guid>//localhost:1313/tags/gaza/</guid>
       <description></description>
     </item>
     <item>
       <title>Israel</title>
       <link>//localhost:1313/tags/israel/</link>
-      <pubDate>Sun, 02 Feb 2025 13:58:15 +0300</pubDate>
+      <pubDate>Sun, 02 Feb 2025 17:32:52 +0300</pubDate>
       <guid>//localhost:1313/tags/israel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Iran</title>
+      <link>//localhost:1313/tags/iran/</link>
+      <pubDate>Sun, 02 Feb 2025 17:18:50 +0300</pubDate>
+      <guid>//localhost:1313/tags/iran/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Finland</title>
+      <link>//localhost:1313/tags/finland/</link>
+      <pubDate>Sun, 02 Feb 2025 17:12:10 +0300</pubDate>
+      <guid>//localhost:1313/tags/finland/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gallery</title>
+      <link>//localhost:1313/tags/gallery/</link>
+      <pubDate>Sun, 02 Feb 2025 17:12:10 +0300</pubDate>
+      <guid>//localhost:1313/tags/gallery/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Russia</title>
+      <link>//localhost:1313/tags/russia/</link>
+      <pubDate>Sun, 02 Feb 2025 17:12:10 +0300</pubDate>
+      <guid>//localhost:1313/tags/russia/</guid>
       <description></description>
     </item>
     <item>
@@ -28,34 +70,6 @@
       <link>//localhost:1313/tags/journalism/</link>
       <pubDate>Sun, 02 Feb 2025 13:58:15 +0300</pubDate>
       <guid>//localhost:1313/tags/journalism/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kuluttajat</title>
-      <link>//localhost:1313/tags/kuluttajat/</link>
-      <pubDate>Wed, 12 Apr 2023 13:28:21 +0300</pubDate>
-      <guid>//localhost:1313/tags/kuluttajat/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Venäjä</title>
-      <link>//localhost:1313/tags/ven%C3%A4j%C3%A4/</link>
-      <pubDate>Wed, 12 Apr 2023 13:21:13 +0300</pubDate>
-      <guid>//localhost:1313/tags/ven%C3%A4j%C3%A4/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pääministeri</title>
-      <link>//localhost:1313/tags/p%C3%A4%C3%A4ministeri/</link>
-      <pubDate>Tue, 11 Apr 2023 03:04:03 +0300</pubDate>
-      <guid>//localhost:1313/tags/p%C3%A4%C3%A4ministeri/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Russia</title>
-      <link>//localhost:1313/tags/russia/</link>
-      <pubDate>Tue, 11 Apr 2023 03:04:03 +0300</pubDate>
-      <guid>//localhost:1313/tags/russia/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,25 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2025-02-02T17:35:28+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/china/</loc>
+    <lastmod>2025-02-02T17:35:28+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/how-tibets-peaceful-nation-building-challenges-chinese-rule/</loc>
+    <lastmod>2025-02-02T17:35:28+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2025-02-02T17:35:28+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2025-02-02T17:35:28+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/tibet/</loc>
+    <lastmod>2025-02-02T17:35:28+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/gaza/</loc>
+    <lastmod>2025-02-02T17:32:52+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/israel/</loc>
+    <lastmod>2025-02-02T17:32:52+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/looking-away-from-gaza-will-not-assuage-our-conscience-only-action-will--ariana-yekrangi2/</loc>
+    <lastmod>2025-02-02T17:32:52+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/embracing-genocide-how-iranian-monarchists-are-championing-israels-deadly-onslaught-on-palestineariana-yekrangi/</loc>
+    <lastmod>2025-02-02T17:18:50+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/iran/</loc>
+    <lastmod>2025-02-02T17:18:50+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/a-look-at-finlands-troubled-history-with-russia-through-photos/</loc>
+    <lastmod>2025-02-02T17:12:10+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/finland/</loc>
+    <lastmod>2025-02-02T17:12:10+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/gallery/</loc>
+    <lastmod>2025-02-02T17:12:10+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/russia/</loc>
+    <lastmod>2025-02-02T17:12:10+03:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/posts/weve-seen-this-before-inside-israels-war-on-truth-journalists-and-the-free-media2/</loc>
     <lastmod>2025-02-02T13:58:15+03:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2025-02-02T13:58:15+03:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/gaza/</loc>
-    <lastmod>2025-02-02T13:58:15+03:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/israel/</loc>
-    <lastmod>2025-02-02T13:58:15+03:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/tags/journalism/</loc>
-    <lastmod>2025-02-02T13:58:15+03:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2025-02-02T13:58:15+03:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/</loc>
     <lastmod>2025-02-02T13:58:15+03:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/held-hostage-no-more-harris-democrats-and-the-price-of-betrayal3/</loc>
@@ -28,51 +58,6 @@
   </url><url>
     <loc>//localhost:1313/posts/reaping-what-you-sow-why-trumps-assassination-attempt-is-unworthy-to-steal-headlines/</loc>
     <lastmod>2025-02-02T13:33:07+03:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/swim/</loc>
-    <lastmod>2023-04-14T12:02:32+03:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/nhl/</loc>
-    <lastmod>2023-04-14T12:00:39+03:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/kysymys/</loc>
-    <lastmod>2023-04-14T11:59:05+03:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/interview/</loc>
-    <lastmod>2023-04-12T13:37:16+03:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/kokomus/</loc>
-    <lastmod>2023-04-12T13:35:37+03:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/bio/</loc>
-    <lastmod>2023-04-12T13:34:05+03:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/kuluttajat/</loc>
-    <lastmod>2023-04-12T13:28:21+03:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/arijarvinen/</loc>
-    <lastmod>2023-04-12T13:28:21+03:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/envi/</loc>
-    <lastmod>2023-04-12T13:21:13+03:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/ven%C3%A4j%C3%A4/</loc>
-    <lastmod>2023-04-12T13:21:13+03:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/keskiluokkainen-ajatusmalli-jyr%C3%A4%C3%A4-ty%C3%B6l%C3%A4istaustaisten-lasten-unelmat-sanoo-tohtoriksi-v%C3%A4itellyt-talonmiehen-tyt%C3%A4r/</loc>
-    <lastmod>2023-04-11T03:04:03+03:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/kokenutkin-ostaja-voi-tulla-huijatuksi-netiss%C3%A4--muista-n%C3%A4m%C3%A4-kuusi-vinkki%C3%A4-kun-ostat-yksityishenkil%C3%B6lt%C3%A4--digitreenit--yle.fi/</loc>
-    <lastmod>2023-04-11T03:04:03+03:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/p%C3%A4%C3%A4ministeri/</loc>
-    <lastmod>2023-04-11T03:04:03+03:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/p%C3%A4%C3%A4ministerikausi-koetteli-sanna-marinin-kestokyky%C3%A4--puoluesihteeri-ideologinen-viha-on-ollut-aivan-k%C3%A4sitt%C3%A4m%C3%A4t%C3%B6nt%C3%A4/</loc>
-    <lastmod>2023-04-11T03:04:03+03:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/russia/</loc>
-    <lastmod>2023-04-11T03:04:03+03:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/fugitive-war-criminal-assumes-unsc-role/</loc>
     <lastmod>2023-04-11T03:04:03+03:00</lastmod>
