@@ -1,6 +1,6 @@
 ---
 title: "‘Reaping what you sow’: Why Trump’s assassination attempt is unworthy to steal headlines"
-date: 2024-06-15T13:33:07+03:00
+date: 2024-07-15T13:33:07+03:00
 description: "The shooting in Pennsylvania is the fruit of the toxic tree Trump, and consecutive US administrations, have cultivated. It's time our headlines focus on what actually matters."
 author: "Ariana Yekrangi"
 cover: "/images/donald-trump.jpg"

@@ -307,7 +307,7 @@ a:disabled,
 }
 
 header {
-  /* position: sticky; */
+  position: sticky; 
   top: 0;
   z-index: 2;
 }
@@ -3746,6 +3746,7 @@ html.no-touch.no-reduced-motion
   flex-direction: row;
   width: 457px;
   border-top: 1px solid grey;
+  padding-top: 10px;
 }
 
 .tile.tile-list .tile__headline {
