@@ -1,0 +1,38 @@
+[home]
+    other = "home"
+[posts]
+    other = "Articles"
+[about]
+    other = "About"
+[latestArticles]
+    other = "Latest"
+[featuredStories]
+    other = "Featured Stories"
+[moreArticles]
+    other = "More Articles"
+[viewArchive]
+    other = "View Archive"
+[socialMedia]
+    other = "Social Media"
+[related]
+    other = "Related"
+[pagination]
+    other = "Pagination"
+[of]
+    other = "/"
+[allTags]
+    other = "All Tags"
+[author]
+    other = "Author"
+[postDate]
+    other = "Published"
+[copyright]
+    other = "Copyright"
+[licenses]
+    other = "All rights reserved. Contact for reuse"
+[minutes]
+    other = "Minutes"
+[readingTime]
+    other = "Reading Time"
+[owner]
+    other = "Ariana Yekrangi"

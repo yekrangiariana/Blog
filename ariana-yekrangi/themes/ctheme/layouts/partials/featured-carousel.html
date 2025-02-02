@@ -1,0 +1,14 @@
+<div class="featured-posts">
+  {{ range . }}
+    <div class="featured-post">
+      <a href="{{ .RelPermalink }}" class="featured-post-link">
+        <div class="featured-post-image" style="background-image: url('{{ .Params.cover | absURL }}');">
+          <div class="featured-post-content">
+            <h3 class="featured-post-title">{{ .Title }}</h3>
+            <span class="featured-post-date">{{ .Date.Format "January 2, 2006" }}</span>
+          </div>
+        </div>
+      </a>
+    </div>
+  {{ end }}
+</div>

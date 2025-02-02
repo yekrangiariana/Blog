@@ -1,0 +1,23 @@
+<nav class="nav">
+  <div class="nav-wrapper">
+    <div class="nav-content-wrapper">
+      <div class="nav-content">
+        <div class="logo-wrapper">
+          <img src="https://i.guim.co.uk/img/media/fd24961da06e0376817beb3b45bdcdb84acee737/0_0_2302_2300/master/2302.png?width=620&quality=45&dpr=2&s=none" alt="EE Logo" class="logo">
+          <a href="{{ "" | relURL }}" class="nav-title">{{ .Site.Title }}</a>
+        </div>
+        <div class="nav-menu">
+          <div class="nav-item-wrapper">
+            <a href="{{ "posts" | relURL }}" class="nav-item-content">{{ i18n "posts" }}</a>
+          </div>
+          <div class="nav-item-wrapper">
+            <a href="{{ "about" | relURL }}" class="nav-item-content">{{ i18n "about" }}</a>
+          </div>
+          <!-- <div class="nav-item-wrapper">
+            <a href="{{ "index.xml" | relURL }}" class="nav-item-content" target="_blank">RSS</a>
+          </div> -->
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>

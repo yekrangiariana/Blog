@@ -1,0 +1,78 @@
+{{ define "main" }}
+{{ $pages := where .Site.RegularPages "Params.plain" "ne" true }}
+
+  <section class="everydayfeed">
+    <div class="section-content">
+      <h2 class="section-head">{{ i18n "latestArticles" }}</h2>
+      <ul role="list" class="section-tiles">
+
+        {{ range first 1 $pages }}
+          {{ $level := 1 }}
+          {{ partial "tile.html" (dict "context" . "level" $level) }}
+        {{ end }}
+
+        {{ range first 2 ( after 1 $pages) }}
+          {{ $level := 2 }}
+          {{ partial "tile.html" (dict "context" . "level" $level) }}
+        {{ end }}
+
+        {{ range first 4 ( after 3 $pages ) }}
+        {{ partial "moreTile.html" (dict "context" .) }}
+        {{ end }}
+
+        {{ range first 3 ( after 7 $pages) }}
+          {{ $level := 3 }}
+          {{ partial "tile.html" (dict "context" . "level" $level) }}
+        {{ end }}
+        
+      </ul>
+    </div>
+  </section>
+
+  <section class="featured">
+    <div class="section-content">
+      <div class="feature-top">
+        <h2 id="feature-head" class="section-head">{{ i18n "featuredStories" }}</h2>
+      </div>
+      {{ $featuredPosts := where .Site.RegularPages "Params.featured" true | first 4 }}
+      {{ if $featuredPosts }}
+      <div class="featured-carousel">
+        {{ partial "featured-carousel.html" $featuredPosts }}
+        {{ end }}
+      </div>
+      <div class="featured-nav-wrapper">
+        <button class="featured-nav featured-nav-left">&#8249</button>
+        <button class="featured-nav featured-nav-right">&#8250</button>
+      </div>
+    </div>
+  </section>  
+
+  <section class="more-from-newsroom">
+    <div class="section-content">
+      <h2 class="section-head">{{ i18n "moreArticles" }}</h2>
+      <ul role="list" class="section-tiles">
+
+      {{ range first 8 ( after 10 $pages ) }}
+          {{ partial "moreTile.html" (dict "context" .) }}
+        {{ end }}
+      </ul>
+      <div class="view-archive-wrapper">
+        <a href="{{ "posts" | relURL }}" class="cta-primary-light" data-analytics-region="router" data-analytics-title="view archive">{{ i18n "viewArchive"}}</a>
+      </div>
+    </div>
+  </section>
+
+  <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        var script = document.createElement("script");
+        script.src = {{"js/animation.js" | relURL  }};
+        document.head.appendChild(script);
+
+        script.onload = function () {
+          console.log("lazyload.js loaded");
+          // when layout is loaded, load the images
+          initImage();
+        };
+      });
+    </script>
+{{ end }}

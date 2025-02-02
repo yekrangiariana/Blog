@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html class="js no-touch  progressive-image  no-reduced-motion progressive" lang="{{ .Site.Language.Lang }}">
+  <head>
+    {{ partial "head.html" . }}
+  </head>
+  <body class="{{ if .IsPage }} page-article {{ else }} page-landing {{ end }}  {{ if eq .Page.Params.theme "dark" }} theme-dark {{ end }}">
+    <header>
+      {{ partial "header.html" . }}
+    </header>
+    {{ block "main" . }}
+    {{ end }}
+    {{ $isDark := eq .Page.Params.theme "dark"}}
+    {{ partial "footer.html" (dict "dark" $isDark) }}
+  </body>
+</html>

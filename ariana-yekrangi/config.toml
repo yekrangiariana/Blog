@@ -1,0 +1,25 @@
+baseURL = '/'
+languageCode = 'en'
+defaultContentLanguage = "en"
+hasCJKLanguage = true
+title = 'Ariana Yekrangi'
+copyright = 'Ariana Yekrangi'
+theme = 'ctheme'
+paginate = 10
+
+[taxonomy]
+  tag = "tags"
+  category = "categories"
+  author = "authors"
+
+[params]
+  defaultCover = ''
+  email = 'yekrangiariana[at]gmail.com'
+  [[params.socialMedia]]
+    name = 'Twitter'
+    url = 'https://x.com/YekrangiAriana'
+  [[params.blogroll]]
+    name = 'UN-aligned'
+    url = 'www.un-aligned.org'
+  
+
