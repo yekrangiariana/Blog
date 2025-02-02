@@ -22,4 +22,10 @@ paginate = 10
     name = 'UN-aligned'
     url = 'www.un-aligned.org'
   
+[[module.mounts]]
+source = 'static'
+target = 'static'
 
+[[module.mounts]]
+source = 'images'
+target = 'static/images'

@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Ariana Yekrangi</copyright>
-    <lastBuildDate>Thu, 09 May 2024 13:58:15 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 13:33:07 +0300</lastBuildDate>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>US</title>
+      <link>//localhost:1313/tags/us/</link>
+      <pubDate>Sat, 15 Jun 2024 13:33:07 +0300</pubDate>
+      <guid>//localhost:1313/tags/us/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Gaza</title>
       <link>//localhost:1313/tags/gaza/</link>

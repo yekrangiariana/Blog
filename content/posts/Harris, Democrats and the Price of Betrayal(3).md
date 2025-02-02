@@ -3,13 +3,13 @@ title: "‘Held Hostage No More’: Harris, Democrats and the Price of Betrayal"
 date: 2024-11-07T13:51:42+03:00
 description: "Harris’s defeat is no tragedy; it’s a sliver of justice, a rare rebuke from voters who refuse to reward American indifference to suffering abroad."
 author: "Ariana Yekrangi"
-cover: "/Harris-Democrats-and-the-Price-of-Betrayal.jpg.webp"
+cover: "/images/Harris.jpg.webp"
 tags: []
 theme: “light”
 featured: false
 ---
 
-![For years, some held onto the dream that the Democratic Party could be reformed, that it might serve as a vehicle for real change. That dream is now dead. Composite: Ariana Yekrangi|wide]("/Harris-Democrats-and-the-Price-of-Betrayal.jpg.webp")
+![For years, some held onto the dream that the Democratic Party could be reformed, that it might serve as a vehicle for real change. That dream is now dead. Composite: Ariana Yekrangi|wide](/images/Harris.jpg.webp)
 
 First as tragedy, then as farce, and now—an endless cycle of farce, like a bad political rerun that won’t quit. America has rewarded its own worst instincts by returning to office an anti-women, climate-denying, xenophobic figure who has openly admired authoritarianism. This isn’t an anomaly; it’s déjà vu—again. Trump’s re-election isn’t an outlier but a pattern that shatters any pretence of America being better than this. It isn’t, and it’s high time we stopped pretending otherwise.
 
