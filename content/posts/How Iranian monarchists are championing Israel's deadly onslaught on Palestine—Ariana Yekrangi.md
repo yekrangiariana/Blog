@@ -1,6 +1,6 @@
 ---
 title: "‘Embracing genocide’: How Iranian monarchists are championing Israel's deadly onslaught on Palestine"
-date: 2025-02-02T17:18:50+03:00
+date: 2024-04-07T17:18:50+03:00
 description: "What compels one of the largest Iranian opposition groups, itself victim to despotism, to align with a state engaged in systematic oppression of Palestinians? A desperate bid for relevance."
 author: "Ariana Yekrangi"
 cover: "https://un-aligned.org/wp-content/uploads/2024/04/%E2%80%98Embracing-genocide-How-Iranian-monarchists-are-championing-Israel-deadly-onslaught-on-Palestine-.jpg"

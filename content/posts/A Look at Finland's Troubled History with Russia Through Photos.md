@@ -1,6 +1,6 @@
 ---
 title: "A Look at Finland's Troubled History with Russia Through Photos"
-date: 2025-02-02T17:12:10+03:00
+date: 2022-06-09T17:12:10+03:00
 description: "Finland is a young country, but one with a heartbreaking history. In this photo timeline, which consists of 11 events showcasing 80 photos, we’ll guide you through the country’s tragic history with Russia."
 author: "Ariana Yekrangi"
 cover: "https://un-aligned.org/wp-content/uploads/2022/07/fortification-in-the-Karelian-Isthmus-in-1939..jpg"
@@ -8,6 +8,8 @@ tags: ["Finland", "Russia", "Gallery"]
 theme: "dark"
 featured: true
 ---
+
+![Volunteer building a field fortification in the Karelian Isthmus on 15 June 1939. Photo: The Finnish Heritage Agency/Flickr © CC2.0|big](https://un-aligned.org/wp-content/uploads/2022/07/fortification-in-the-Karelian-Isthmus-in-1939..jpg)
 
 ## **The February Manifesto and the Russification of Finland (1899)**
 

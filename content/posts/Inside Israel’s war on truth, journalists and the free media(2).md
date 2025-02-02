@@ -1,6 +1,6 @@
 ---
 title: "“We’ve seen this before”: Inside Israel’s war on truth, journalists and the free media"
-date: 2025-02-02T13:58:15+03:00
+date: 2024-05-09T13:58:15+03:00
 description: "Amidst rising violence and a tightening grip on truth, Israel's aggressive campaign against journalists mirrors tactics used by history's most oppressive regimes."
 author: "Ariana Yekrangi"
 cover: "https://un-aligned.org/wp-content/uploads/2024/05/2-Inside-Israels-war-on-truth-journalists-and-the-free-media.jpg"

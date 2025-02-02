@@ -3745,6 +3745,7 @@ html.no-touch.no-reduced-motion
   background-color: transparent;
   flex-direction: row;
   width: 457px;
+  border-top: 1px solid grey;
 }
 
 .tile.tile-list .tile__headline {
