@@ -3,15 +3,17 @@
 
   <section class="everydayfeed">
     <div class="section-content">
-      <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
-<script src="/pagefind/pagefind-ui.js"></script>
-<div id="search"></div>
-<script>
-    window.addEventListener('DOMContentLoaded', (event) => {
-        new PagefindUI({ element: "#search", showSubResults: true });
-    });
-</script>
       <h2 class="section-head">{{ i18n "latestArticles" }}</h2>
+      
+      <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+      <script src="/pagefind/pagefind-ui.js"></script>
+      <div id="search"></div>
+        <script>
+          window.addEventListener('DOMContentLoaded', (event) => {
+          new PagefindUI({ element: "#search", showSubResults: true });
+          });
+        </script>
+        
       <ul role="list" class="section-tiles">
 
         {{ range first 1 $pages }}
@@ -32,7 +34,7 @@
           {{ $level := 3 }}
           {{ partial "tile.html" (dict "context" . "level" $level) }}
         {{ end }}
-        
+
       </ul>
     </div>
   </section>

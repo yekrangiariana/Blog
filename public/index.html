@@ -50,15 +50,17 @@
 
   <section class="everydayfeed">
     <div class="section-content">
-      <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
-<script src="/pagefind/pagefind-ui.js"></script>
-<div id="search"></div>
-<script>
-    window.addEventListener('DOMContentLoaded', (event) => {
-        new PagefindUI({ element: "#search", showSubResults: true });
-    });
-</script>
       <h2 class="section-head">Latest</h2>
+      
+      <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+      <script src="/pagefind/pagefind-ui.js"></script>
+      <div id="search"></div>
+        <script>
+          window.addEventListener('DOMContentLoaded', (event) => {
+          new PagefindUI({ element: "#search", showSubResults: true });
+          });
+        </script>
+        
       <ul role="list" class="section-tiles">
 
         
@@ -428,7 +430,7 @@
 </li>
 
         
-        
+
       </ul>
     </div>
   </section>
