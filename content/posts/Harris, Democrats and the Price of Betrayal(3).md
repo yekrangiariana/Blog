@@ -4,7 +4,7 @@ date: 2024-11-07T13:51:42+03:00
 description: "Harris’s defeat is no tragedy; it’s a sliver of justice, a rare rebuke from voters who refuse to reward American indifference to suffering abroad."
 author: "Ariana Yekrangi"
 cover: "/images/Harris.jpg.webp"
-tags: []
+tags: ["US", "Israel"]
 theme: “light”
 featured: false
 ---

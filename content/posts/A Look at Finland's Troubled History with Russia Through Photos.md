@@ -13,7 +13,7 @@ featured: true
 
 ## **The February Manifesto and the Russification of Finland (1899)**
 
-The February manifesto was part of the larger operation of the Russification of Finland during which Finnish territories were forced to align their cultures with that of the Russian empire. On the 5th of February 1899, Nicholas II of Russia, the Tsar of Russia, defined a new legislation order that asserted the imperial Russian government to rule over Finland without the consultation of the Finnish Senate. 
+The February manifesto was part of the larger operation of the Russification of Finland during which Finnish territories were forced to align their cultures with that of the Russian empire. On the 5th of February 1  899, Nicholas II of Russia, the Tsar of Russia, defined a new legislation order that asserted the imperial Russian government to rule over Finland without the consultation of the Finnish Senate. 
 
 Some of the articles of the legislation included: criminalising the act of subjecting followers of the Russian Orthodox church to the Lutheran church, placing even tighter Russian censorship on the Finnish press and subjecting the Finnish army to Russian rules of military service, essentially forcing Finns to serve in Russian units. The February Manifesto was soon followed by the Language Manifesto of 1900, which aimed to make Russian the main administrative language in government offices favouring the Russian minority that made up less than 3% of the Finnish society. 
 
@@ -100,7 +100,7 @@ A cleaner trolley on the streets of Hämeenlinna in 1910. Photo: The Finnish Her
 Russian fruit sellers at Hakaniementor in 1907. Photo: The Finnish Heritage Agency/Flickr © [CC2.0](https://creativecommons.org/licenses/by/2.0/)
 
 
-## **Finnish independence from Russia (1917)**
+
 
 ![Nikolaus II](https://un-aligned.org/wp-content/uploads/2022/07/Nikolaus_II._Russland-742x1024.jpg "Finland’s troubled history with Russia — A Story in Photos 17")
 
