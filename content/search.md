@@ -1,5 +1,0 @@
----
-title: "Search"
-plain: true
----
-
