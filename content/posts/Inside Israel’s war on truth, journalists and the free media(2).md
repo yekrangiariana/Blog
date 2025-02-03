@@ -3,13 +3,13 @@ title: "“We’ve seen this before”: Inside Israel’s war on truth, journali
 date: 2024-05-09T13:58:15+03:00
 description: "Amidst rising violence and a tightening grip on truth, Israel's aggressive campaign against journalists mirrors tactics used by history's most oppressive regimes."
 author: "Ariana Yekrangi"
-cover: "https://un-aligned.org/wp-content/uploads/2024/05/2-Inside-Israels-war-on-truth-journalists-and-the-free-media.jpg"
+cover: "/images/Israel%20war%20on%20truth.jpg"
 tags: ["Israel", "Gaza", "Journalism"]
 theme: 
 featured: true
 ---
 
-![Every attempt to mask the truth only draws more attention to it, and history is not kind to those who wage war not just on people, but on facts themselves.” Composite: Ariana Yekrangi|big](https://un-aligned.org/wp-content/uploads/2024/05/2-Inside-Israels-war-on-truth-journalists-and-the-free-media.jpg)
+![Every attempt to mask the truth only draws more attention to it, and history is not kind to those who wage war not just on people, but on facts themselves.” Composite: Ariana Yekrangi|big](/images/Israel%20war%20on%20truth.jpg)
 
 ## **The stakes**
 
@@ -27,9 +27,11 @@ In this ominous context, President Joe Biden, who hosted his annual White House 
 
 Biden did not respond to the letter during his private dinner. Why would he? His administration, alongside many of our Western governments, has unequivocally supported Israel’s war crimes in Gaza. The US and its allies, through silence or multi-billion-dollar arms support deals, have been complicit in the suppression—and indeed, the killing—of journalists.
 
-![Biden finished his speech by toasting "to a free press, to an informed citizenry, to an America where freedom and democracy endure. God bless America!" Photo: Screenshot of the White House/YouTube Channel.|inline](https://un-aligned.org/wp-content/uploads/2024/05/President-Biden-Delivers-Remarks-at-the-White-House-Correspondents-Dinner-1024x576.jpg "“We’ve seen this before”: Inside Israel’s war on truth, journalists and the free media 1")
+![Biden finished his speech by toasting “to a free press, to an informed citizenry, to an America where freedom and democracy endure”. “God bless America”, he said.|inline](https://un-aligned.org/wp-content/uploads/2024/05/President-Biden-Delivers-Remarks-at-the-White-House-Correspondents-Dinner-1024x576.jpg)
 
-Biden finished his speech by toasting “to a free press, to an informed citizenry, to an America where freedom and democracy endure”. “God bless America”, he said. Photo: Screenshot of the [White House/YouTube.](https://www.youtube.com/live/ywGsVTpTEDo?si=Ri595Mwaa47YOPyX)
+
+[Photo: Screenshot of the White House/YouTube](https://www.youtube.com/live/ywGsVTpTEDo?si=Ri595Mwaa47YOPyX)
+
 
 Israel has targeted media personnel in Gaza and Lebanon with lethal precision for some time; from October 7, to May 3, at least 97 journalists and media workers were confirmed dead, with 16 injured, four missing and 25 arrested. Reports from the [Committee to Protect Journalists](https://cpj.org/2024/05/journalist-casualties-in-the-israel-gaza-conflict/) also detail multiple assaults, threats, cyberattacks, censorship, and even the killing of family members of journalists. This pattern of brutality is not merely systemic, it is officially sanctioned.
 
