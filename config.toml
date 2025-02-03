@@ -29,5 +29,3 @@ target = 'static'
 [[module.mounts]]
 source = 'images'
 target = 'static/images'
-
- params: assets: favicon: "/static/favicon/favicon.ico"
