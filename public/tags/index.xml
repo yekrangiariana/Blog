@@ -79,5 +79,26 @@
       <guid>/tags/russia/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Armenia</title>
+      <link>/tags/armenia/</link>
+      <pubDate>Sat, 08 Aug 2020 15:45:33 +0300</pubDate>
+      <guid>/tags/armenia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Azerbaijan</title>
+      <link>/tags/azerbaijan/</link>
+      <pubDate>Sat, 08 Aug 2020 15:45:33 +0300</pubDate>
+      <guid>/tags/azerbaijan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nagorno-Karabakh</title>
+      <link>/tags/nagorno-karabakh/</link>
+      <pubDate>Sat, 08 Aug 2020 15:45:33 +0300</pubDate>
+      <guid>/tags/nagorno-karabakh/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
