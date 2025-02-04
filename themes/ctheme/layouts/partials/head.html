@@ -15,19 +15,13 @@
     <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
 
     
-    <!-- Open Graph meta tags for social media preview -->
+    <!--Open Graph -->
     <meta property="og:title" content="{{ .Title }}" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="{{ .Permalink }}" />
-    <meta property="og:description" content="{{ .Summary }}" />
+    <meta property="og:description" content="{{ if .Params.description }}{{ .Params.description }}{{ else }}{{ .Summary }}{{ end }}" />
 
-    <!-- Use the cover image (if defined in front matter) for Open Graph -->
     <meta property="og:image" content="{{ if .Params.cover }}{{ .Params.cover | absURL }}{{ else }}{{ .Site.BaseURL }}images/default-image.jpg{{ end }}" />
 
-    <!-- Twitter Card meta tags -->
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="{{ .Title }}" />
-    <meta name="twitter:description" content="{{ .Summary }}" />
-    <meta name="twitter:image" content="{{ if .Params.cover }}{{ .Params.cover | absURL }}{{ else }}{{ .Site.BaseURL }}images/default-image.jpg{{ end }}" />
     
 </head>
