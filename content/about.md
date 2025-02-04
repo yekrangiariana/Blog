@@ -3,7 +3,7 @@ title: "About"
 plain: true
 ---
 
-![ |inline](https://i.guim.co.uk/img/media/fd24961da06e0376817beb3b45bdcdb84acee737/0_0_2302_2300/master/2302.png?width=620&quality=45&dpr=2&s=none)
+![ |inline](/logo.png)
 
 Hey, I’m Ariana Yekrangi, a journalist, editor and communications specialist based in Helsinki. I spend my days researching, fact-checking, and shaping words into something meaningful—whether that’s through journalism, editorial work, or content strategy.
 
