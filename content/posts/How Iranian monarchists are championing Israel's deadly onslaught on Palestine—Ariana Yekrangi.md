@@ -6,7 +6,7 @@ author: "Ariana Yekrangi"
 cover: "/images/reza-pahlavi-support-for-israel.jpg"
 tags: ["Israel", "Iran"]
 theme: “light”
-featured: false
+featured: true
 ---
 
 ![Graphic: Ariana Yekrangi](/images/reza-pahlavi-support-for-israel.jpg)

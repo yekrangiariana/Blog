@@ -6,7 +6,7 @@ author: "Ariana Yekrangi"
 cover: "/images/erdogan-love-for-autocracy-in-germany.jpg"
 tags: ["Germany","Turkey"]
 theme: “light”
-featured: false
+featured: true
 ---
 
 ![Composite: Ariana Yekrangi](/images/erdogan-love-for-autocracy-in-germany.jpg)
