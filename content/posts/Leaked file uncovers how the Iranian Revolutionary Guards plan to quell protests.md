@@ -3,16 +3,16 @@ title: "Revealed: Leaked file uncovers how the Iranian Revolutionary Guards plan
 date: 2022-12-11T19:17:14+03:00
 description: "Exclusive: A two-hour-long audio leak of a secret meeting between a Basij commander and news outlets reveals the regime’s tactics to suppress dissent."
 author: "Ariana Yekrangi"
-cover: "https://un-aligned.org/wp-content/uploads/2022/12/Revealed-Leaked-file-uncovers-how-the-Iranian-Revolutionary-Guards-plan-to-quell-protests.jpg.webp"
+cover: "/images/Revealed-Leaked-file-uncovers-how-the-Iranian-Revolutionary-Guards-plan-to-quell-protests.jpg.webp"
 tags: ["Iran"]
 theme: “light”
-featured: false
+featured:
 ---
 -   Basij commander warns media organisations against talking about the recent unrest in Iran and advising them to refer to the rising opposition **using terms such as “conspiracies” and “collusions”**
 -   Revolutionary Guards have **received a list of Iranian football** fans who participated in World Cup from Qatari officials.
 -   The IRGC has used the country’s participation in the 2022 World Cup as a **distraction from the widespread protests.**
 
-![Graphic: Ariana Yekrangi|big](https://un-aligned.org/wp-content/uploads/2022/12/Revealed-Leaked-file-uncovers-how-the-Iranian-Revolutionary-Guards-plan-to-quell-protests.jpg.webp)
+![Graphic: Ariana Yekrangi](/images/Revealed-Leaked-file-uncovers-how-the-Iranian-Revolutionary-Guards-plan-to-quell-protests.jpg.webp)
 
 A hacking group named Black Reward has published the audio file of a confidential meeting between Basij commander Qasem Qoreyshi and media managers close to the Iranian Revolutionary Guards Corps (IRGC) that took place on the 15th November 2022.
 

@@ -745,6 +745,7 @@ html.js .tile.large-loaded .image {
   padding-top: 10px;
   padding-bottom: 80px;
   overflow: hidden;
+  background-color: transparent;
 }
 
 @media only screen and (max-width: 1068px) {

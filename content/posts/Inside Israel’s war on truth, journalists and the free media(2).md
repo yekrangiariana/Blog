@@ -27,7 +27,7 @@ In this ominous context, President Joe Biden, who hosted his annual White House 
 
 Biden did not respond to the letter during his private dinner. Why would he? His administration, alongside many of our Western governments, has unequivocally supported Israel’s war crimes in Gaza. The US and its allies, through silence or multi-billion-dollar arms support deals, have been complicit in the suppression—and indeed, the killing—of journalists.
 
-![Biden finished his speech by toasting “to a free press, to an informed citizenry, to an America where freedom and democracy endure”. “God bless America”, he said.|inline](https://un-aligned.org/wp-content/uploads/2024/05/President-Biden-Delivers-Remarks-at-the-White-House-Correspondents-Dinner-1024x576.jpg)
+![Biden finished his speech by toasting “to a free press, to an informed citizenry, to an America where freedom and democracy endure”. “God bless America”, he said.|inline](/images/President-Biden-Delivers-Remarks-at-the-White-House-Correspondents-Dinner-1024x576.jpg)
 
 
 [Photo: Screenshot of the White House/YouTube](https://www.youtube.com/live/ywGsVTpTEDo?si=Ri595Mwaa47YOPyX)
@@ -51,9 +51,8 @@ He alleged that some of Haaretz’s articles, including a piece by columnist Ami
 
 From October 7, Israel has imposed strict controls on media access to Gaza, effectively barring journalists despite [repeated pleas](https://www.aljazeera.com/news/2024/2/28/international-journalists-call-on-israel-and-egypt-for-access-to-gaza) from media organisations for “free and unfettered access”. Israel’s stringent restrictions on media access to Gaza serve to throttle any semblance of unfiltered news. Journalists are only allowed in under the strict supervision of the IDF, ensuring that whatever is reported aligns strictly with the approved narrative. This is not mere censorship; this is narrative manipulation at its most blatant and disturbing.
 
-![In an interview with Al Jazeera, Israeli journalist Gideon Levy told Al Jazeera that the channel has been the primary sources of information regarding Israel's actions in Gaza. Photo:  Flavio~/Flickr ©  CC BY-NC 2.0 Deed|wide](https://un-aligned.org/wp-content/uploads/2024/05/Gideon-Levy-Inside-Israels-war-on-truth-journalists-and-the-free-media-1024x732.jpg)
+![In an interview with Al Jazeera, Israeli journalist Gideon Levy told Al Jazeera that the channel has been the primary sources of information regarding Israels actions in Gaza. Photo:  Flavio~/Flickr ©  CC BY-NC 2.0 Deed](/images/Gideon-Levy.jpg)
 
-In an interview with Al Jazeera, Israeli journalist Gideon Levy told Al Jazeera that the channel has been the primary sources of information regarding Israel’s actions in Gaza. Photo: [Flavio~/Flickr](https://www.flickr.com/photos/37873897@N06/16310570660/in/photostream/) © CC BY-NC 2.0 Deed
 
 Domestically, coverage of Israel’s actions in Gaza is predominantly skewed to portray Israelis exclusively as victims, conveniently omitting significant aspects of the story. Gideon Levy, a columnist at Haaretz, [told Al Jazeera](https://www.youtube.com/watch?v=KkIzKh14Ap4), “For me, over the past seven months, Al Jazeera English has been one of the primary, if not the primary, sources of information about what is happening in Gaza, as Israeli TV shows nothing from Gaza.”
 
@@ -83,11 +82,13 @@ In Israel, the media landscape often amplifies the official line rather than che
 
 This government-endorsed narrative, pushed by outlets like the far-right Channel 14, blends propaganda with reporting, shaping public opinion not with facts but with a continuous stream of destructive doctrine. Law for Palestine, a Europe-based NGO, has documented approximately [500 statements](https://law4palestine.org/wp-content/uploads/2024/02/Database-of-Israeli-Incitement-to-Genocide-including-after-ICJ-order-27th-February-2024-.pdf) from Israeli journalists, commentators, and politicians that are genocidal in nature. For example, on an episode of the Patriots Show (Channel 14) on October 8th Noam Fathi commented, “When we see images of bombed buildings in Gaza and dead bodies, I say who cares? It doesn’t interest anyone; we need to do more—it needs to be way stronger.” 
 
-![Israeli journalist, Yehuda Schlesinger, calling for "a lot more revenge, a lot more rivers of Gazans blood". Instances of hate speech and dehumanisation of Palestinians is common on Israeli media. Photo: Screenshot of the interview. ](https://un-aligned.org/wp-content/uploads/2024/05/genocial-statements-by-isreali-media-1024x576.jpg "“We’ve seen this before”: Inside Israel’s war on truth, journalists and the free media 3")
-
-Israeli journalist, Yehuda Schlesinger, calling for “a lot more revenge, a lot more rivers of Gazans’ blood”. Instances of hate speech and dehumanisation of Palestinians is common on Israeli media. Photo: Screenshot of [the interview](https://zionism.observer/quotes/yehuda-schlesinger/these-people-there-in-ga).
+<!-- ![Israeli journalist, Yehuda Schlesinger, calling for a lot more revenge, a lot more rivers of Gazans blood. Instances of hate speech and dehumanisation of Palestinians is common on Israeli media. Photo: Screenshot of the interview. ](/images/Yehuda-schlesinger.jpg) -->
 
 Another commentator, this time on Channel 12, which is the [most watched station](https://www.keshetinternational.com/keshet-12) in the country, Yehuda Schlesinger, [complained about](https://zionism.observer/yehuda-schlesinger) Gazans finding respite at the beach after months of traumatising Israeli bombardment which has left them without homes, places of work and schools:
+
+{{< parallax alt="Yehuda Schlesinger, calling for a lot more revenge, a lot more rivers of Gazans blood" src="/images/Yehuda-schlesinger.jpg" >}}
+
+Photo: Screenshot of [the interview with Yehuda Schlesinger](https://zionism.observer/quotes/yehuda-schlesinger/these-people-there-in-ga).
 
 “These people there \[in Gaza\] deserve death. A hard death, an agonising death. And instead we see them enjoying on the beach \[sic\], having fun… There are no innocent people there in the Gaza Strip… They are now enjoying on the beach, instead of starving, being jerked around, being severely tormented and hiding from shelling… We should have seen a lot more revenge, a lot more rivers of Gazans’ blood.”
 
@@ -105,7 +106,7 @@ The direct assassination of journalist Shireen Abu Akleh in May 2022, at the han
 
 Her assassination was initially met with a flurry of denials. When an IDF acknowledgment of probable responsibility finally came, it lacked any charges or meaningful accountability.
 
-![Journalist Shireen Abu Akleh, tragically killed by an IDF sniper in May 2022 while reporting in Jenin, was renowned across the Arab world for her dedicated 25-year career with Al Jazeera, covering significant events and striving to unveil the truth. Photo: Al Jazeera Media Network ©  CC BY-SA 4.0 Deed ](https://un-aligned.org/wp-content/uploads/2024/05/Inside-Israels-war-on-truth-journalists-and-the-free-media-Shireen-Abu-Akleh-1024x686.jpg "“We’ve seen this before”: Inside Israel’s war on truth, journalists and the free media 4")
+![Journalist Shireen Abu Akleh, tragically killed by an IDF sniper in May 2022 while reporting in Jenin, was renowned across the Arab world for her dedicated 25-year career with Al Jazeera, covering significant events and striving to unveil the truth. Photo: Al Jazeera Media Network ©  CC BY-SA 4.0 Deed ](/images/shireen%20abu%20akleh.jpg)
 
 Shireen Abu Akleh, was shot in the head by an IDF sniper in May 2022 while reporting in Jenin. She was renowned across the Arab world for her dedicated 25-year career with Al Jazeera, covering significant events and striving to unveil the truth. Photo: Al Jazeera Media Network © CC BY-SA 4.0 Deed
 
@@ -130,8 +131,6 @@ In today’s digital age, Israel faces an insurmountable challenge in its attemp
 Citizen journalism leveraging platforms like social media and instant messaging, has not only supplemented traditional news but has become the linchpin of reporting from Gaza. It ensures that the stories of suffering and resistance are brought to light. This includes irrefutable evidence of atrocities—videos, photos and personal accounts that document the killing and massacring of children, systematic destruction and other acts that are blatant war crimes. Disturbingly, some of this footage is uploaded by the perpetrators themselves—IDF soldiers who [broadcast their war crimes](https://www.aljazeera.com/opinions/2024/1/24/why-are-israeli-soldiers-sharing-snuff-videos-from-their-genocide-in-gaza) accompanied by genocidal rhetoric. This unmediated insight not only circumvents traditional news gatekeepers, but also lays bare the actions that might otherwise be shrouded in denials or obfuscation. 
 
 This shift to other forms of consuming media comes as many mainstream media outlets, which purport to be liberal, have played a role in [broadcasting Israel’s](https://www.declassifieduk.org/how-the-western-media-helped-build-the-case-for-genocide-in-gaza/) lies, such as 40 [beheaded babies](https://www.declassifieduk.org/beheaded-babies-how-uk-media-reported-israels-fake-news-as-fact/) by Hamas, [as propagated by none other than Joe Biden](https://theintercept.com/2023/12/14/israel-biden-beheaded-babies-false/), hiring an actress to play [anti-Hamas nurse](https://dohanews.co/disinformation-experts-call-out-israeli-theatrics-for-using-actress-to-play-anti-hamas-nurse/), placing [fake evidence](https://www.theguardian.com/world/2023/nov/17/idf-evidence-so-far-falls-well-short-of-al-shifa-hospital-being-hamas-hq) to prove that al-Shifa hospital was an Hamas HQ, claiming that Palestinians in Gaza [fake their own injuries](https://www.thedailybeast.com/israeli-diplomat-ofir-gendelman-busted-spreading-disinfo-about-palestinians-amid-gaza-war), or, perhaps worst of all, asserting that UNRWA, the principal organisation responsible for providing aid in Gaza, has been [colluding with Hamas,](https://news.un.org/en/story/2024/04/1148821) which played into the hands of Israel, intent on starving Palestinians.
-
-![Despite a violent police crackdown on peaceful protests, young people, including university students worldwide, have started protesting for divestment from institutions linked to Israel following its genocide in Gaza. Photo: Montecruz Foto/Creative Commons|wide](https://un-aligned.org/wp-content/uploads/2024/05/student-israel-protests-1024x576.jpg "“We’ve seen this before”: Inside Israel’s war on truth, journalists and the free media 5")
 
 Despite a violent police crackdown on peaceful protests, young people, including university students worldwide, have started protesting for divestment from institutions linked to Israel following its genocide in Gaza. Photo: Montecruz Foto/Creative Commons
 

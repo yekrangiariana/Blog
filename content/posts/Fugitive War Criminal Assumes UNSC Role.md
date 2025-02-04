@@ -3,13 +3,13 @@ date: 2023-04-11T03:04:03+03:00
 title: "World Peace Now Secure: Fugitive War Criminal Assumes UN Peacekeeping Chief Role"
 description: "As Russia takes over the UN Security Council presidency, the world confronts the baffling irony of a nation, embroiled in the Ukraine war and led by a convicted war criminal, guiding an organisation entrusted with the preservation of global peace and security."
 author: "Ariana Yekrangi"
-cover: "https://un-aligned.org/wp-content/uploads/2023/04/Putin-standing-infront-of-russian-army.jpg.webp"
+cover: "/images/Putin-standing-infront-of-russian-army.jpg.webp"
 tags: ["Russia"]
-featured: true
-theme: "dark"
+featured:
+theme: "light"
 ---
 
-![Putin standing in front of Russian troops during his New Year’s address to the nation. © CC 4.0|big](https://un-aligned.org/wp-content/uploads/2023/04/Putin-standing-infront-of-russian-army.jpg.webp)
+![Putin standing in front of Russian troops during his New Year’s address to the nation. © CC 4.0|big](/images/Putin-standing-infront-of-russian-army.jpg.webp)
 
 As the adage goes, “truth is stranger than fiction”. Case in point: Russia, the very nation embroiled in a relentless war in Ukraine, has assumed the presidency of the UN Security Council, an institution dedicated to preserving global peace and security.
 
@@ -19,8 +19,6 @@ To add to the absurdity, Russia’s top dog, Vladimir Putin, has been [slapped w
 
 A little over a year ago, Russia had also taken over the presidency of the UN Security Council as we highlighted in our review aptly titled “[Abstaining Romance and Plenty of Hot Air](https://un-aligned.org/global-issues/unsc-meeting-on-ukraine-review/)”. Vasily Alekseyevich Nebenzya, Russia’s UN ambassador, pooh-poohed the notion of an impending war at that time, stating, “there’s no proof to confirm these serious accusations \[of starting a war\]”, and adding that such claims were “a provocation in itself”. He went on to warn that if the West egged Kyiv into sabotaging the Minsk agreements, things might “end in the absolute worst way for Ukraine.” Naturally, he assured everyone that Russia would have absolutely nothing to do with what he called a self-destruction of Ukraine.
 
-![pig sitting in russia's seat at the UNSC](https://un-aligned.org/wp-content/uploads/2022/07/Kick-Russia-out-of-the-UN-now--1024x614.jpg.webp "Russia’s actions in Syria and Ukraine highlight its misuse of its seat on the UN Security Council, causing concern and condemnation from the international community. Graphic: UN-aligned design team.")
-
 Now, fast-forward to the present day, and the situation has taken on an air of bitter irony, as Ukraine faces the grim reality of war and destruction, while yet again Russia prepares to lead the very council responsible for preventing such conflicts. Sergiy Kyslytsya, Ukraine’s permanent representative, lamented the situation, saying, “the Security Council as it is designed is immobilised and incapable of addressing the issues of their primary responsibility, that is prevention of conflicts and then dealing with conflicts”.
 
 ## For the UN, the show must always go on
@@ -29,9 +27,7 @@ Despite the incongruity of Russia’s new role, other council members are hesita
 
 As Russia prepares to chair sessions on [“effective multilateralism” and the Middle East](https://www.securitycouncilreport.org/monthly-forecast/2023-04/the-middle-east-including-the-palestinian-question-11.php), the rest of the world will be treated to a masterclass in irony. With only a handful of steadfast allies, Russia seems unfazed by the growing opposition in the UN General Assembly, where around 140 out of 193 member states have voted against Moscow’s position. Russia’s deputy permanent representative, Dmitry Polyanskiy, even argues that it’s the West, not Russia, that’s isolated in the assembly. It’s a fascinating display of diplomatic doublethink.
 
-![Dmitry Polyanskiy speaking at the UN](https://un-aligned.org/wp-content/uploads/2023/04/Dmitry-Polyanskiy3.jpg.webp "World Peace Now Secure: Fugitive War Criminal Assumes UN Peacekeeping Chief Role 2")
-
-It’s the West, not Russia, that’s isolated in the assembly, said Dmitry Polyanskiy Russia’s UN representative. Photo: UN Press
+![It’s the West, not Russia, that’s isolated in the assembly, said Dmitry Polyanskiy Russia’s UN representative. Photo: UN Press|inline](/images/Dmitry-Polyanskiy3.jpg.webp)
 
 And what of Vladimir Putin’s arrest warrant for war crimes issued by the International Criminal Court? Polyanskiy dismisses it as “totally irrelevant to any of our activities.” The last time the Russian leader set foot in the UN headquarters was in 2015, so perhaps he’s hoping that out of sight means out of mind.
 

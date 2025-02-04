@@ -3,13 +3,13 @@ title: "From Zahhak to the Islamic Republic of Iran: Has Ferdowsi prophesied the
 date: 2022-09-18T19:09:25+03:00
 description: "In his national epic, the Book of Kings, Ferdowsi, tells us a story of a kingdom ruled by hungry snakes terrorising a nation. Little did the poet know that 1000 years later, his national epic would become a prophecy."
 author: "Ariana Yekrangi"
-cover: "https://un-aligned.org/wp-content/uploads/2022/10/Zahhak-to-the-Islamic-Republic-of-Iran-Has-Ferdowsi-prophesied-the-future-of-the-republic-.jpg"
+cover: "/images/Zahhak-to-the-Islamic-Republic-of-Iran-Has-Ferdowsi-prophesied-the-future-of-the-republic-.jpg"
 tags: ["Iran"]
 theme: “light”
 featured: false
 ---
 
-![Graphic: Ariana Yekrangi|big](https://un-aligned.org/wp-content/uploads/2022/10/Zahhak-to-the-Islamic-Republic-of-Iran-Has-Ferdowsi-prophesied-the-future-of-the-republic-.jpg)
+![Graphic: Ariana Yekrangi|big](/images/Zahhak-to-the-Islamic-Republic-of-Iran-Has-Ferdowsi-prophesied-the-future-of-the-republic-.jpg)
 
 Zahhak was the evil king of Mesopotamia who conquered Iran and, together with his army and serpents that grew out of his two shoulders, terrorised the people of the land for thousands of years. It all started when in order to congratulate the new king on his new position, the embodiment of evil, known in the Book of Kings as Ahriman, disguises himself as the royal cook and asks to kiss the new king’s shoulders. Zahhak agrees and moments after Ahriman’s lips touch Zahhak’s shoulders two black snakes emerge.
 

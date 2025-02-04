@@ -602,6 +602,7 @@ code {
 }
 
 .parallax__description {
+  width: 60vh;
   font-size: 1.3rem;
   color: white;
 }

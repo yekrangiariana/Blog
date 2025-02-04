@@ -1,5 +1,5 @@
 ---
-title: "The Love for Erdogan's Autocracy in the Heart of German Democracy"
+title: "The love for Erdogan's autocracy in the heart of German democracy"
 date: 2023-06-11T18:28:39+03:00
 description: "Cultural ties fuel German-Turkish diaspora's support for Erdogan's autocracy, a paradox threatening to stall Turkey's progress in the 21st century."
 author: "Ariana Yekrangi"
@@ -23,9 +23,7 @@ In a rule that has spanned over two decades, Erdogan’s means of governance is 
 
 Consider the Chamlija Mosque: This Ottoman-inspired architectural marvel rises majestically over Istanbul. It’s the tallest mosque in Turkey and a powerful symbol in Erdogan’s narrative. The four 107.1-meter-high minarets, each marking the Seljuk Turks’ victory over the Byzantine Army in 1071, serve as tangible proof of Erdogan’s adept use of historical narratives to solidify his position.
 
-![Çamlıca Republic Mosque as seen from the Bosporus.](https://un-aligned.org/wp-content/uploads/2023/06/Camlica-Mosque-1024x713.jpg "The Love for Erdogan's Autocracy in the Heart of German Democracy 1")
-
-The majestic Çamlıca Republic Mosque, a symbol of $110 million expenditure, towers over Istanbul amidst Turkey’s intensifying cost-of-living crisis.
+![The majestic Çamlıca Republic Mosque, a symbol of $110 million expenditure, towers over Istanbul amidst Turkey’s intensifying cost-of-living crisis.|inline](/images/Camlica-Mosque-1024x713.jpg)
 
 Erdogan has capitalised on Turkey’s rich Ottoman legacy, entwining it with an invigorated sense of Turkish nationalism and a robust Islamic identity. His personal faith is deeply ingrained and visible in both his public and private life, creating an appeal that reaches the hearts of conservative groups at home and abroad.
 
@@ -35,9 +33,7 @@ This influence reaches even the multicultural streets of Berlin, resonating with
 
 Many German-Turks, particularly those [hailing from conservative regions](https://www.dw.com/en/why-many-turks-in-germany-still-vote-for-erdogan/a-65442948) like Anatolia, share a strong cultural and religious tie with Turkey. Even though they live in a new country, their core values remain the same. Erdogan’s emphasis on Turkish identity, nationalism and traditional values strikes a chord with those who feel marginalised in their adopted homeland.
 
-![Distribution of Turkish citizens in districts of Germany in 2021](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Turkish_population_relative_to_total_Turkish_population_in_Germany_2021.svg/1920px-Turkish_population_relative_to_total_Turkish_population_in_Germany_2021.svg.png "The Love for Erdogan's Autocracy in the Heart of German Democracy 2")
-
-Distribution of Turkish citizens in [districts of Germany](https://en.wikipedia.org/wiki/Districts_of_Germany) in 2021
+![Distribution of Turkish citizens in districts of Germany in 2021|inline](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Turkish_population_relative_to_total_Turkish_population_in_Germany_2021.svg/1920px-Turkish_population_relative_to_total_Turkish_population_in_Germany_2021.svg.png)
 
 As one Turkish-German community leader points out, “German politicians have largely overlooked the Turks’ integral role in their nation over the past 60 years. Erdogan, however, acknowledges us. He reassures us, ‘No matter where you live or what citizenship you hold, you are one of us.'” 
 
@@ -46,10 +42,6 @@ While Erdogan’s personal and political appeal is clear, understanding how thes
 ## **The Paradox of Democracy**
 
 At the heart of Berlin-Kreuzberg, where the sounds and smells of an Ankara market can be sensed, lies a peculiar paradox. This vibrant neighbourhood, reminiscent of Turkish enclaves, houses a steadfast allegiance to President Recep Tayyip Erdogan, often perceived as an emblem of rising autocracy. Surprisingly, this loyalty stands unwavering in a democratic country, maintained by the large Turkish diaspora that accounted for between 3 to 7 million of Germany’s population in 2015.
-
-![Janissary procession trough the Brandenburger Tor at the "Türkischen Tag" (Turkish Day) in Berlin](https://upload.wikimedia.org/wikipedia/commons/7/7f/Turkisch-day-in-Berlin.jpg "The Love for Erdogan's Autocracy in the Heart of German Democracy 3")
-
-Janissary procession trough the Brandenburger Tor at the “Türkischen Tag” (Turkish Day) in Berlin
 
 Erdogan’s governance, marked by an encroaching autocracy, is an intriguing study in democratic backsliding. His administration’s response to civil unrest, especially during the Gezi Park protests in 2013, has been notoriously severe. What started as a peaceful sit-in morphed into a nationwide protest against Erdogan’s regime, met with a heavy-handed government response leading to eight deaths and thousands of injuries.
 
@@ -77,9 +69,7 @@ The diaspora in Germany, a vital constituency in this transformation, largely ba
 
 Currently, the Turkish diaspora in Germany, both influential and rapidly growing, officially stands at around 1.5 million. However, when considering those of partial Turkish descent and Turkish citizens, this number swells to up to 7 million. This distinctive demographic combines German efficiency and Turkish resilience.
 
-![women holding erdogan's picture](https://un-aligned.org/wp-content/uploads/2023/06/women-holding-a-picture-of-erdoghan-after-the-2016-coup-1024x683.jpg "The Love for Erdogan's Autocracy in the Heart of German Democracy 4")
-
-President Erdogan supporters rally during post-coup demonstration in Istanbul, Turkey, July 22, 2016. © [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+![President Erdogan supporters rally during post-coup demonstration in Istanbul, Turkey, July 22, 2016. © CC BY-SA 4.0](/images/women-holding-a-picture-of-erdoghan-after-the-2016-coup.jpg)
 
 Their bond with Turkey spans beyond geographical constraints, solidified by cultural ties, economic contributions, and political allegiances. The economic bond is particularly impactful, with annual remittances from Germany to Turkey reaching into the billions of euros. Yet, the shifting political allegiance of the diaspora may threaten Erdogan’s iron grip.
 

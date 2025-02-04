@@ -3,13 +3,13 @@ title: "Looking away from Gaza will not assuage our conscience; only action will
 date: 2024-03-26T17:32:52+03:00
 description: "A genocide in Palestine is unfolding right before our eyes, a saga of despair and devastation that many in the West, cocooned in a bubble of comfort and convenience, choose to ignore."
 author: "Ariana Yekrangi"
-cover: "https://un-aligned.org/wp-content/uploads/2024/03/Looking-away-from-Gaza-will-not-assuage-our-conscience-only-action-will-.jpg"
+cover: "/images/looking-away-from-gaza.png"
 tags: ["Israel", "Gaza"]
 theme: “light”
 featured: false
 ---
 
-![Graphic: Ariana Yekrangi|big](https://un-aligned.org/wp-content/uploads/2024/03/Looking-away-from-Gaza-will-not-assuage-our-conscience-only-action-will-.jpg)
+![Graphic: Ariana Yekrangi](/images/looking-away-from-gaza.png)
 
 Just recently, amidst the clinking glasses and idle chatter of a social gathering, I ventured to pierce this bubble. I posed a question to my friends, seemingly simple yet laden with the weight of untold suffering, which asked for their thoughts on the current mass slaughter of Palestinians by Israel; an atrocity that enjoys, astonishingly, the tacit approval—if not outright support—of our governments. One friend, embodying the spirit of our age’s indifference, confessed to avoiding the subject altogether. The casual dismissal struck me—not for its rarity, but for its brazenness, as if the very act of engagement with such a grave matter was itself a burden too heavy to bear.
 

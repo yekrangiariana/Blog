@@ -10,3 +10,4 @@ theme:
 featured: true
 ---
 
+![Graphic: Ariana Yekrangi](cover)

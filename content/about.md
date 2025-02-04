@@ -15,4 +15,4 @@ I have a soft spot for good design and engaging storytelling, so I also dabble i
 
 Outside of work, I compose contemporary classical music. It is a different way of shaping ideas, but it keeps things interesting.
 
-If you would like to chat, collaborate or just say hello, feel free to drop me a message.
+If you would like to chat, collaborate or just say hello, feel free to [drop me a message](https://forms.gle/QpDs4AfZTi2KCiCF8).

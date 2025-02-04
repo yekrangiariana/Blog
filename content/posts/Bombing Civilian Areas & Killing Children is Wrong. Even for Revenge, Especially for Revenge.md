@@ -17,8 +17,6 @@ As a result, the plight of Palestinians finds itself lost in this polarised game
 
 This is not to underestimate Israeli grievances. With Hamas’s butchering of 1,400 people and the taking of another 220 as hostages, the nation’s ire is understandable. However, what is intolerable, is the eye-for-an-eye approach that has left Palestinian civilian areas decimated, with nearly half of the 5,700 Palestinian deaths being children (as of publishing, see [this link](https://www.aljazeera.com/news/longform/2023/10/9/israel-hamas-war-in-maps-and-charts-live-tracker) for live figures). Two wrongs have never made a right in the annals of history, and they certainly do not now.
 
-![The Israeli politician meets with the families of captives taken by Hamas on 22 October 2023. Photo: Kobi Gideon/GPO Israel © CC BY-SA 3.0|inline](https://un-aligned.org/wp-content/uploads/2023/10/families-of-hostages-israel-hamas-war-2023-1024x597.jpg "")
-
 The underbelly of this conflict has long been an ‘occupation’—a word as heavy as the history it carries. With 56 years of Palestinian subjugation, one can’t ignore the hothouse that has nurtured Hamas. Simply put, Hamas is a reaction to Israel’s far-right government and its illegal occupation and merciless killings of Palestinians. 
 
 The bombing of more Palestinians and further invasion of their land will not erase Hamas; it’s a stubborn root that won’t be easily dug out. Addressing this root necessitates a look inward for Israel. The nation’s existential threat is not only external but also comes from within, born of its own failure to grant Palestinians meaningful statehood or economic and political parity.
