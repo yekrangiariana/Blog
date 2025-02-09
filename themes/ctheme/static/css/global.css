@@ -621,7 +621,7 @@ html.js .tile.large-loaded .image {
 
 @media only screen and (max-width: 734px) {
   html.js .tile.small-load .image {
-    opacity: 0;
+    opacity: 1;
     transform: translateY(20px);
     transition: none;
   }

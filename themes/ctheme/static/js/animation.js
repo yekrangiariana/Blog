@@ -100,24 +100,20 @@ function setActivePost() {
   })
 }
 
+const totalPosts = document.querySelectorAll(".featured-post").length;
+
 navLeft.addEventListener("click", () => {
-  if (currentPosition > 0) {
-    currentPosition--
-    const transformValue = window.innerWidth <= 768 ? 119 : 107
-    featuredPosts.style.transform = `translateX(-${
-      currentPosition * transformValue
-    }%)`
-    setActivePost()
-  }
+  // Move left, but wrap around
+  currentPosition = (currentPosition === 0) ? totalPosts - 1 : currentPosition - 1;
+  const transformValue = window.innerWidth <= 768 ? 119 : 107
+  featuredPosts.style.transform = `translateX(-${currentPosition * transformValue}%)`
+  setActivePost()
 })
 
 navRight.addEventListener("click", () => {
-  if (currentPosition < 3) {
-    currentPosition++
-    const transformValue = window.innerWidth <= 768 ? 119 : 107
-    featuredPosts.style.transform = `translateX(-${
-      currentPosition * transformValue
-    }%)`
-    setActivePost()
-  }
+  // Move right, but wrap around
+  currentPosition = (currentPosition === totalPosts - 1) ? 0 : currentPosition + 1;
+  const transformValue = window.innerWidth <= 768 ? 119 : 107
+  featuredPosts.style.transform = `translateX(-${currentPosition * transformValue}%)`
+  setActivePost()
 })
