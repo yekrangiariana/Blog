@@ -3,7 +3,7 @@ title: "Looking away from Gaza will not assuage our conscience; only action will
 date: 2024-03-26T17:32:52+03:00
 description: "A genocide in Palestine is unfolding right before our eyes, a saga of despair and devastation that many in the West, cocooned in a bubble of comfort and convenience, choose to ignore."
 author: "Ariana Yekrangi"
-cover: "/images/looking-away-from-gaza.png"
+cover: "/images/looking-away-from-gaza.webp"
 tags: ["Israel", "Gaza"]
 theme: “light”
 featured: false
