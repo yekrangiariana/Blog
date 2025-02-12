@@ -9,7 +9,7 @@ theme: “light”
 featured: false
 ---
 
-![Three Holy Hierarchs. Photo: Wikimedia ](/images/John-Chrysostom-with-Basil-of-Caesarea-and-Gregory-of-Nazianzus-on-a-late-15th-century-icon-of-the-Three-Holy-Hierarchs-from-the-Cathedral-of-St-Sophia2C-Novgorod.jpg@0.5x.png)
+![Three Holy Hierarchs. Photo: Wikimedia ](/images/the-three-holy-hierarchs.webp)
 
 Yes, Putin and the Russian Orthodox Church walk hand-in-hand in so many ways. From the eyes of the church he is seen as a “miracle of God”, a humble Russian worshiper who wants to put the Church at the heart of Russia’s national identity. However, the Church is not the only one who has wet dreams; what the ROC knows too well is that they must return the favour. And we all know what the price of [a deal with the devil](https://un-aligned.org/human-rights/vlad-the-terrible/) is: selling your soul.
 

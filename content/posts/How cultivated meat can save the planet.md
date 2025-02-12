@@ -3,7 +3,7 @@ title: "How cultivated meat can save the planet"
 date: 2021-01-12T15:35:31+03:00
 description: "Cultivated meat will present a futuristic alternative to the callous, unwieldy and unnecessarily wasteful way animals are farmed today."
 author: "Ariana Yekrangi"
-cover: "https://upload.wikimedia.org/wikipedia/commons/8/8b/First_cultured_hamburger_unfried.png"
+cover: "static/images/First_cultured_hamburger_unfried.webp"
 tags: []
 theme: “light”
 featured: false

@@ -9,7 +9,7 @@ theme: “light”
 featured: false
 ---
 
-![Graphic: Ariana Yekrangi](/images/looking-away-from-gaza.png)
+![Graphic: Ariana Yekrangi](/images/looking-away-from-gaza.webp)
 
 Just recently, amidst the clinking glasses and idle chatter of a social gathering, I ventured to pierce this bubble. I posed a question to my friends, seemingly simple yet laden with the weight of untold suffering, which asked for their thoughts on the current mass slaughter of Palestinians by Israel; an atrocity that enjoys, astonishingly, the tacit approval—if not outright support—of our governments. One friend, embodying the spirit of our age’s indifference, confessed to avoiding the subject altogether. The casual dismissal struck me—not for its rarity, but for its brazenness, as if the very act of engagement with such a grave matter was itself a burden too heavy to bear.
 
