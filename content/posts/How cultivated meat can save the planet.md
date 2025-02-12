@@ -3,13 +3,13 @@ title: "How cultivated meat can save the planet"
 date: 2021-01-12T15:35:31+03:00
 description: "Cultivated meat will present a futuristic alternative to the callous, unwieldy and unnecessarily wasteful way animals are farmed today."
 author: "Ariana Yekrangi"
-cover: "static/images/First_cultured_hamburger_unfried.webp"
+cover: "/images/First_cultured_hamburger_unfried.webp"
 tags: []
 theme: “light”
 featured: false
 ---
 
-![Presentation of the worlds first cultured hamburger (yet unfried here) at a news conference in London on 5 August 2013. The cultured meat product was developed by a team of scientists from Maastricht University led by Mark Post at a cost of €250,000. Photo: World Economic Forum](static/images/First_cultured_hamburger_unfried.webp)
+![The worlds first cultured hamburger at a news conference in London on 5 August 2013. The cultured meat product was developed at a cost of €250,000. Photo: World Economic Forum](/images/First_cultured_hamburger_unfried.webp)
 
 Animal agriculture is a major contributor to greenhouse gas emissions; it is driving up climate change, antibiotic resistance, deforestation and the resulting biodiversity loss. It is also an incredibly inefficient, as well as immoral, way to feed the planet. For example, in the United States alone, 56 million acres of land are used to grow feed for animals, while only 4 million acres are cultivated to produce plants for humans to eat.
 

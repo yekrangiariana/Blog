@@ -307,7 +307,7 @@ a:disabled,
 }
 
 header {
-  position: sticky; 
+  position: sticky;
   top: 0;
   z-index: 99;
 }
@@ -5177,7 +5177,7 @@ html.no-touch.no-reduced-motion
 .tag:hover {
   text-decoration: none;
   background: var(--accent-color);
-  filter: brightness(1.3)
+  filter: brightness(1.3);
 }
 
 .article-copyright {
@@ -5290,4 +5290,38 @@ blockquote {
 
 blockquote p {
   display: inline;
+}
+
+/* bluesky comments  */
+.comment {
+  padding: 10px;
+}
+
+.author {
+  font-weight: bold;
+  color: #811919;
+}
+
+.avatar {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  vertical-align: middle;
+  margin-right: 8px;
+}
+
+.nested-replies {
+  display: none;
+  /* margin-left: 20px;
+  padding-left: 10px; */
+}
+
+.actions {
+  display: none;
+  /* font-size: 12px;
+  color: #666; */
+}
+
+.nested-replies .comment {
+  margin-bottom: 0;
 }
