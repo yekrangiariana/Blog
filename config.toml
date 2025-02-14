@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://arianayekrangi.com/'
 languageCode = 'en'
 defaultContentLanguage = "en"
 hasCJKLanguage = true
@@ -25,7 +25,7 @@ pagination.pagerSize = 10
 
 [params.rss]
   name = 'RSS'
-  url = 'arianayekrangi.com/index.xml'
+  url = '/index.xml'
 
 [[module.mounts]]
 source = 'static'
