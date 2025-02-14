@@ -329,10 +329,10 @@ header {
   left: 0;
   width: 100%;
   min-width: 1024px;
-  z-index: 9997;
+  z-index: 10;
   height: 3.05882rem;
   backdrop-filter: saturate(180%) blur(20px);
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid #d0d0d0;
   padding-top: 5px;
 }
 
@@ -378,7 +378,7 @@ header {
   }
 
   .nav-title {
-    font-size: 21px;
+    font-size: 18px;
     line-height: 21px;
   }
 
@@ -2426,7 +2426,7 @@ html.js .tile.large-loaded .image {
 
 @media only screen and (max-width: 734px) {
   .tile.tile-hero {
-    flex-direction: column;
+    flex-direction: column-reverse;
     width: 100%;
   }
 
