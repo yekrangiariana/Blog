@@ -20,7 +20,7 @@ pagination.pagerSize = 10
     url = 'https://x.com/YekrangiAriana'
   [[params.blogroll]]
     name = 'UN-aligned'
-    url = 'www.un-aligned.org'
+    url = 'https://www.un-aligned.org'
 
 
 [params.rss]
