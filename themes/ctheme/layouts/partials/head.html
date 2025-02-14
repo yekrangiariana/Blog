@@ -1,23 +1,38 @@
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="icon" href="{{ "/favicon.ico" | relURL }}">
+  <meta charset="utf-8" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, viewport-fit=cover"
+  />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <link rel="icon" href="{{ "/favicon.ico" | relURL }}">
 
-    <meta name="keyword" content="{{ .Site.Params.keyword }}">
+  <meta name="keyword" content="{{ .Site.Params.keyword }}" />
 
-    <title>{{ .Title }}</title>
+  <title>{{ .Title }}</title>
 
-    <link rel="canonical" href="{{ .Permalink | relURL }}">
+  <link rel="canonical" href="{{ .Permalink | relURL }}" />
 
-    <link rel="stylesheet" href="{{ "css/global.css" | relURL }}">
-    <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
+  <link rel="stylesheet" href="{{ "css/global.css" | relURL }}"> <link
+  rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
 
-    
-    <!--Open Graph -->
-    <meta property="og:title" content="{{ .Title }}" />
-    <meta property="og:type" content="article" />
-    <meta property="og:url" content="{{ .Permalink }}" />
-    <meta property="og:description" content="{{ if .Params.description }}{{ .Params.description }}{{ else }}{{ .Summary }}{{ end }}" />
-    <meta property="og:image" content="{{ if .Params.cover }}{{ .Params.cover | absURL }}{{ else }}{{ .Site.BaseURL }}images/default-image.jpg{{ end }}" />
+  <link
+    rel="alternate"
+    type="application/rss+xml"
+    title="RSS Feed"
+    href="{{ .Site.BaseURL }}index.xml"
+  />
+
+  <!--Open Graph -->
+  <meta property="og:title" content="{{ .Title }}" />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="{{ .Permalink }}" />
+  <meta
+    property="og:description"
+    content="{{ if .Params.description }}{{ .Params.description }}{{ else }}{{ .Summary }}{{ end }}"
+  />
+  <meta
+    property="og:image"
+    content="{{ if .Params.cover }}{{ .Params.cover | absURL }}{{ else }}{{ .Site.BaseURL }}images/default-image.jpg{{ end }}"
+  />
 </head>

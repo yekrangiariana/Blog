@@ -5,28 +5,34 @@
         <div class="foot-nav-items">
           <div class="item">
             <div class="logo">{{ .Site.Title}}</div>
-            <div class="email">Email: <a href="mailto:{{ site.Params.email }}">{{ site.Params.email }}</a></div>
+            <div class="email">
+              Email:<a href="mailto:{{ site.Params.email }}"
+                >{{ site.Params.email }}</a
+              >
+            </div>
+            <div class="rss">
+              RSS:<a href="{{ site.Params.rss.url }}">Access RSS feed</a>
+            </div>
           </div>
 
           <div class="item community">
             <div class="item-title">{{ i18n "socialMedia" }}</div>
             {{ range site.Params.socialMedia }}
-              <a href="{{ .url }}" target="_blank">{{ .name}}</a>
+            <a href="{{ .url }}" target="_blank">{{ .name}}</a>
             {{ end }}
           </div>
 
           <div class="item resources">
             <div class="item-title">{{ i18n "related" }}</div>
             {{ range site.Params.blogroll }}
-              <a href="{{ .url }}" target="_blank">{{ .name}}</a>
+            <a href="{{ .url }}" target="_blank">{{ .name}}</a>
             {{ end }}
           </div>
         </div>
       </div>
       <div class="bottom">
         <div class="item copyright">
-          &copy; {{ now.Format "2006" }}
-          {{ i18n "owner" }}
+          &copy; {{ now.Format "2006" }} {{ i18n "owner" }}
         </div>
       </div>
     </div>

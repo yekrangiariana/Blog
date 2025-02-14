@@ -1,11 +1,11 @@
-baseURL = '/'
+baseURL = 'https://arianayekrangi.com/'
 languageCode = 'en'
 defaultContentLanguage = "en"
 hasCJKLanguage = true
 title = 'Ariana Yekrangi'
 copyright = 'Ariana Yekrangi'
 theme = 'ctheme'
-paginate = 10
+pagination.pagerSize = 10
 
 [taxonomy]
   tag = "tags"
@@ -21,7 +21,12 @@ paginate = 10
   [[params.blogroll]]
     name = 'UN-aligned'
     url = 'www.un-aligned.org'
-  
+
+
+[params.rss]
+  name = 'RSS'
+  url = 'arianayekrangi.com/index.xml'
+
 [[module.mounts]]
 source = 'static'
 target = 'static'
@@ -29,3 +34,7 @@ target = 'static'
 [[module.mounts]]
 source = 'images'
 target = 'static/images'
+
+[outputs]
+  home = ["HTML", "RSS"]
+

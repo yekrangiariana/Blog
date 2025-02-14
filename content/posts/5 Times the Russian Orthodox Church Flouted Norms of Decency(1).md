@@ -15,11 +15,11 @@ Yes, Putin and the Russian Orthodox Church walk hand-in-hand in so many ways. Fr
 
 ### **A marriage made in hell**
 
-With his supporters in the church, their church, Putin’s grip on power bolstered year by year seizing control of the media at home and imprisoning or forcing into exile any powerful oligarchs who stepped in his way. With the strong man comes strong values, very strong traditional values indeed about what’s right and what’s wrong in the field of human relationships, domestic and foreign policy. The Orthodox Church and Putin made an unholy union one that coincides perfectly with power, authority and wealth. 
+With his supporters in the church, their church, Putin’s grip on power bolstered year by year seizing control of the media at home and imprisoning or forcing into exile any powerful oligarchs who stepped in his way. With the strong man comes strong values, very strong traditional values indeed about what’s right and what’s wrong in the field of human relationships, domestic and foreign policy. The Orthodox Church and Putin made an unholy union one that coincides perfectly with power, authority and wealth.
 
-Quid pro quos are the cornerstone of every marriage of convenience: Putin has allowed the Russian Orthodox church to hide its income, receive state assistance, and outcompete other religious communities in Russia. In return, he demands one thing: for the Church to become his pawn, even when this means going against the Church’s traditional values of compassion, fairness, and patience. 
+Quid pro quos are the cornerstone of every marriage of convenience: Putin has allowed the Russian Orthodox church to hide its income, receive state assistance, and outcompete other religious communities in Russia. In return, he demands one thing: for the Church to become his pawn, even when this means going against the Church’s traditional values of compassion, fairness, and patience.
 
-The Russian Orthodox Church has long changed its role from a spiritual guide to a hate-spreading cult, opposed to reform and human decency. Here are five instances the Russian Orthodox Church chose to be on the wrong side of history. 
+The Russian Orthodox Church has long changed its role from a spiritual guide to a hate-spreading cult, opposed to reform and human decency. Here are five instances the Russian Orthodox Church chose to be on the wrong side of history.
 
 ## **1\. Fuelling a “holy war” in Syria** 
 
@@ -31,11 +31,11 @@ You might think why on earth would the church support the killing of about 600,0
 
 ## **2\. Hypermasculinity and the stance against LGBTQ rights**
 
-In today’s Russia, persecution on the streets against the LGBTQ community is rife and it does not seem to be a great priority for the police or lawmakers. 
+In today’s Russia, persecution on the streets against the LGBTQ community is rife and it does not seem to be a great priority for the police or lawmakers.
 
-Although the country decriminalised homosexuality in 1993, twenty years later, it banned “homosexual propaganda toward minors”, a move that further fuelled hatred and homophobia. Legally, LGBTQ groups are not protected from discrimination, hate crime or hate speech, all of which are prevalent at the hands of private and state actors, including vigilante groups who openly and publicly hunt gay or bisexual men with complete impunity. As a result, many from the LGBTQ community get by living in secrecy; some take the consequences of being who they are, while others simply leave the country. 
+Although the country decriminalised homosexuality in 1993, twenty years later, it banned “homosexual propaganda toward minors”, a move that further fuelled hatred and homophobia. Legally, LGBTQ groups are not protected from discrimination, hate crime or hate speech, all of which are prevalent at the hands of private and state actors, including vigilante groups who openly and publicly hunt gay or bisexual men with complete impunity. As a result, many from the LGBTQ community get by living in secrecy; some take the consequences of being who they are, while others simply leave the country.
 
-The wispy-bearded senior cleric and the head of Russia’s Orthodox church, Kirill, has been reported to [liken marriage equality to Nazism](https://ria.ru/20170529/1495279242.html): “when laws are detached from morality they cease being laws people can accept.” This he said was similar to the laws in Nazi Germany. Both Putin and the Russian Orthodox Church have twisted views about their God and Christianity. 
+The wispy-bearded senior cleric and the head of Russia’s Orthodox church, Kirill, has been reported to [liken marriage equality to Nazism](https://ria.ru/20170529/1495279242.html): “when laws are detached from morality they cease being laws people can accept.” This he said was similar to the laws in Nazi Germany. Both Putin and the Russian Orthodox Church have twisted views about their God and Christianity.
 
 Earlier last year, a majority of [Russians voted in favour of constitutional changes](https://un-aligned.org/human-rights/russian-roulette-why-putins-referendum-victory-is-a-threat-to-humanity/) which, in addition to allowing President Vladimir Putin to extend his rule, added language defining marriage as “a union between a man and a woman” to the Constitution. This is utterly disgraceful. If the Roman Catholic Church can move from its biggoted past and distance itself from homophobic remarks it once fabricated, why can’t the Eastern Church follow?
 
@@ -43,21 +43,21 @@ Earlier last year, a majority of [Russians voted in favour of constitutional cha
 
 In 2016, according to the Interfax news agency, Patriarch Kirill bizarrely denounced those human rights that he said contradicted the Bible, and proclaimed fighting them as “heresy” the goal of his church . Adding that “We must defend Orthodoxy”. He was quite ambivalent about exactly which human rights he found particularly offensive, but knowing his line-off thinking and track record, one can easily guess.
 
-In the course of half a century, many experts suggest that the attitude of the Russian Orthodox Church on human rights has softened from an outright rejection to a position of critical acceptance. However, much like other Abrahamic religions the Russian Orthodoxy developed in the milieu of violence and intolerance. The Orthodox Church is deeply out of touch with social reality and has yet to rid itself of outdated anomalies. 
+In the course of half a century, many experts suggest that the attitude of the Russian Orthodox Church on human rights has softened from an outright rejection to a position of critical acceptance. However, much like other Abrahamic religions the Russian Orthodoxy developed in the milieu of violence and intolerance. The Orthodox Church is deeply out of touch with social reality and has yet to rid itself of outdated anomalies.
 
-The Journalist Deborah Orr writes: “For human rights to flourish, religious rights have to come second to them. We are all human. We are not all of the same religion, or religious at all. One cannot protect religious rights if they are used as a reason to abuse human rights, human equalities, as so often they are.” 
+The Journalist Deborah Orr writes: “For human rights to flourish, religious rights have to come second to them. We are all human. We are not all of the same religion, or religious at all. One cannot protect religious rights if they are used as a reason to abuse human rights, human equalities, as so often they are.”
 
 ## **4\. Supporting Belarus’s embattled leader**
 
-As thousands of Belarusians took to the streets to protest against the rigged and fraudulent election of Alyaksandr Lukashenka, the Russian Orthodox Church published a statement in support of Europe’s last dictator, congratulating and praising him for his devotion to Orthodox congregations; and encouraging the “fruitful interaction between the state authorities and the Belarusian Exarchate.” 
+As thousands of Belarusians took to the streets to protest against the rigged and fraudulent election of Alyaksandr Lukashenka, the Russian Orthodox Church published a statement in support of Europe’s last dictator, congratulating and praising him for his devotion to Orthodox congregations; and encouraging the “fruitful interaction between the state authorities and the Belarusian Exarchate.”
 
 By now, it should not come to anyone’s surprise that the ROC does not care about fair elections, human rights or the values and needs of today’s world. Putin’s geopolitical ambitions go hand in hand with the ROC’s desire to preserve its power over the Belarusian Orthodox Church (BOC) and other post-Soviet states. In this instance however, the price of power came at the expense of losing trust, both at home and abroad in Belarus.
 
 ## **5\. Providing cover for intolerance and repression**  
 
-By continuously siding with the Kremlin over the Russian people’s cry for change and reform, the Church has alienated many of its followers. 
+By continuously siding with the Kremlin over the Russian people’s cry for change and reform, the Church has alienated many of its followers.
 
-In the past months, not only did Orthodox Christians make up a significant number of the thousands of protesters who took to the streets in pro-democracy protests across Russia; but many of them openly cited their faith as grounds for taking action. Within the Church itself however, those who have dared to speak ill of Putin face being defrocked and publicly humiliated. 
+In the past months, not only did Orthodox Christians make up a significant number of the thousands of protesters who took to the streets in pro-democracy protests across Russia; but many of them openly cited their faith as grounds for taking action. Within the Church itself however, those who have dared to speak ill of Putin face being defrocked and publicly humiliated.
 
 In December a Russian Orthodox Church court in the Yaroslavl eparchy issued a five-year work suspension for a priest [who signed an open letter](https://www.politico.eu/article/russian-orthodox-christians-lose-faith-in-vladimir-putin/) with dozens of other clergymen urging the authorities to reduce their clampdown and free activists sentenced to prison for attending protests. Sad, what once was seen as an independent spiritual entity is now nothing but a puppet dancing to Putin’s tunes.
 
@@ -68,5 +68,3 @@ Putin will leave sooner or, as it seems, much later, but a modern Russia, shaped
 ## **UN-aligned article 8: “Religion cannot be used to promote violence, bigotry and intolerance.”**
 
 All too often religious leaders are silent regarding the atrocities or prejudice committed in the name of their religion, but even more sinister is the fact that some actually advocate hatred and its ramifications. Promoting injustice towards people or animals is unacceptable and religious leaders of this mould should not be recognised as legitimate religious representatives. Religious leaders have a duty to promote harmony, if they do not, then they are fakes and should be dealt with according to hate laws, since religion cannot be above ethical conduct.
-
-**[_Read this article in Italian (Leggi questo articolo in italiano) →_](https://un-aligned.org/wp-content/uploads/2021/02/Italina_-Cinque-volte-la-Chiesa-ortodossa-russa-ha-infranto-le-norme-di-decenza.pdf)**

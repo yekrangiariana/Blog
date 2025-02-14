@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{ $currentPost := .Page }}
 {{ $currentPostTags := $currentPost.Params.tags }}
-  {{ $notPlainPage := ne .Page.Params.plain true }}
+{{ $notPlainPage := ne .Page.Params.plain true }}
   <main id="main" class="main">
     <section>
       <article class="article">
