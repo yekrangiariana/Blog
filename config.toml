@@ -1,4 +1,4 @@
-baseURL = 'https://arianayekrangi.com/'
+baseURL = '/'
 languageCode = 'en'
 defaultContentLanguage = "en"
 hasCJKLanguage = true
