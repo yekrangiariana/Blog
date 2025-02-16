@@ -31,7 +31,7 @@ In April 2023, Reza Pahlavi and his wife, Yasmine Pahlavi, made a [controversial
 
 ![Benjamin Netanyahu, his wife Sarah, Iran’s exiled crown prince Reza Pahlavi and Israeli Intelligence Minister Gila Gamliel. Photo: The Office of the Prime Minister of Israel](/images/reza-pahlavi-and-jasmin-pahlavi-with-netanyahu.webp)
 
-This visit not only reflected a severe lapse in judgement, betraying a deep insensitivity to the plight of the Palestinians, but also isolated the Pahlavis from those they aim to represent. Yet, the hypocrisy did not stop there. 
+This visit not only reflected a severe lapse in judgement, betraying a deep insensitivity to the plight of the Palestinians, but also isolated the Pahlavis from those they aim to represent. Yet, the hypocrisy did not stop there.
 
 On this trip, Yasmine Pahlavi also [posted a photo](https://www.middleeasteye.net/news/iran-israel-pahlavi-wife-posts-woman-life-freedom-soldier) of a female Israeli soldier in East Jerusalem, which is under Israeli occupation, with the words “Women, Life, Freedom!”, which rightly angered supporters of the [Mahsa Amini movement](https://un-aligned.org/human-rights/zahhak-to-iran-has-ferdowsi-prophesied-the-future-of-the-republic/). The protestors did not want their cause associated with Israel’s illegal occupation and demeaning treatment of Palestinians. The slogan, a rallying cry born from the heartache and defiance of the Kurdish struggle for dignity, repurposed in a context that undermines the very essence of its meaning, is not just a political faux pas; it is an affront to the memory of those who have suffered and perished under the yoke of oppression.
 
@@ -39,14 +39,13 @@ By November 2023, the death toll in Gaza had surpassed 11,200 Palestinians since
 
 ![Yasmine Pahlavi, Reza Pahlavi’s wife at the Pro-Israel March.|inline](/images/jasmin-pahlavi-supporting-israel.png)
 
-
 Nurtured in the United States, under the potent influence of the Israeli lobby, Reza Pahlavi and his followers are poised to mirror an American political stance increasingly at odds with the actions of an Israel intent on intensifying its offensive against Palestinians. This alliance, birthed from a mutual antipathy for the Islamic Republic, reeks of opportunism, showcasing a callous indifference to Palestinian suffering and the ramifications of such a partnership.
 
-The Islamic Republic of Iran is a despotic regime, but it is a facile to label every one of its actions as malevolent. Since its establishment, the Islamic Republic of Iran has championed Palestinian rights more fervently than any regional Arab state. Yet, it is crucial to differentiate anti-Zionist rhetoric from anti-Semitic vitriol, which is not uncommon amongst the leaders of the Islamic regime in Iran, the latter, or course, deserving unequivocal condemnation. 
+The Islamic Republic of Iran is a despotic regime, but it is a facile to label every one of its actions as malevolent. Since its establishment, the Islamic Republic of Iran has championed Palestinian rights more fervently than any regional Arab state. Yet, it is crucial to differentiate anti-Zionist rhetoric from anti-Semitic vitriol, which is not uncommon amongst the leaders of the Islamic regime in Iran, the latter, or course, deserving unequivocal condemnation.
 
 ## **A Faustian bargain**
 
-If you have followed any Iranian protests, the chant “Neither Gaza, nor Lebanon; my life for Iran”, often heard from a variety of opposition voices, captures the populace’s exhaustion with the regional ambitions of the regime. However, this sentiment reflects a society grappling with its identity amidst tumultuous times, revealing deep-seated internal divisions within the country. 
+If you have followed any Iranian protests, the chant “Neither Gaza, nor Lebanon; my life for Iran”, often heard from a variety of opposition voices, captures the populace’s exhaustion with the regional ambitions of the regime. However, this sentiment reflects a society grappling with its identity amidst tumultuous times, revealing deep-seated internal divisions within the country.
 
 Iranian nationalism and its disdain for the nation’s Islamic and Arabic heritage, ignore the rich mosaic of ethnicities and cultures within, while veering towards exclusion and racism. The dismissal of Arab identity and Islamic legacy by some nationalists underscores a profound misreading of Iran’s diverse character. This internal discord is mirrored in the external alliances that some Iranian figures form, which seem to overlook Iran’s identity in favour of geopolitical gains.
 

@@ -1,8 +1,10 @@
-{{ $altText := .Get "alt" }}
-{{ $imageURL := .Get "src" }}
+{{ $altText := .Get "alt" }} {{ $imageURL := .Get "src" }}
 <div class="parallax__wrapper">
   <div class="parallax">
-    <div class="parallax__background" style="background-image: url('{{ $imageURL }}')"></div>
+    <div
+      class="parallax__background"
+      style="background-image: url('{{ $imageURL }}')"
+    ></div>
     <div class="parallax__overlay">
       <blockquote class="parallax__description">{{ $altText }}</blockquote>
     </div>
@@ -10,32 +12,31 @@
 </div>
 <script>
   document.addEventListener("DOMContentLoaded", function () {
+    const parallaxScroll = () => {
+      const parallaxSections = document.querySelectorAll(".parallax");
 
-  const parallaxScroll = () => {
-    const parallaxSections = document.querySelectorAll(".parallax")
+      parallaxSections.forEach((parallax) => {
+        const background = parallax.querySelector(".parallax__background");
 
-    parallaxSections.forEach(parallax => {
-      const background = parallax.querySelector(".parallax__background")
+        const overlay = parallax.querySelector(".parallax__overlay");
 
-      const overlay = parallax.querySelector(".parallax__overlay")
+        const wrapper = parallax.closest(".parallax__wrapper");
+        const wrapperTop = wrapper.getBoundingClientRect().top;
 
-      const wrapper = parallax.closest(".parallax__wrapper")
-      const wrapperTop = wrapper.getBoundingClientRect().top
+        console.log(wrapperTop);
 
-      console.log(wrapperTop)
+        if (wrapperTop < -300) {
+          background.style.filter = "brightness(60%)";
+          overlay.style.opacity = 1;
+        } else {
+          background.style.filter = "brightness(100%)";
+          overlay.style.opacity = 0;
+        }
+      });
+    };
 
-      if (wrapperTop < -300) {
-        background.style.filter = "brightness(60%)"
-        overlay.style.opacity = 1
-      } else {
-        background.style.filter = "brightness(100%)"
-        overlay.style.opacity = 0
-      }
-    })
-  }
-
-  window.addEventListener("scroll", () => {
-    parallaxScroll()
-  })
-})
+    window.addEventListener("scroll", () => {
+      parallaxScroll();
+    });
+  });
 </script>

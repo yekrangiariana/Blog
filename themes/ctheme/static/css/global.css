@@ -5325,3 +5325,7 @@ blockquote p {
 .nested-replies .comment {
   margin-bottom: 0;
 }
+
+iframe[data-external="1"] {
+  font-family: var(--primary-pro-text) !important;
+}

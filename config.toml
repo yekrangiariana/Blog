@@ -37,4 +37,3 @@ target = 'static/images'
 
 [outputs]
   home = ["HTML", "RSS"]
-

@@ -5,7 +5,7 @@ description: "Amidst rising violence and a tightening grip on truth, Israel's ag
 author: "Ariana Yekrangi"
 cover: "/images/Israel%20war%20on%20truth.jpg"
 tags: ["Israel", "Gaza", "Journalism"]
-theme: "dark"
+theme:
 featured: true
 ---
 

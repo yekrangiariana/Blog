@@ -21,7 +21,7 @@
 
   <link
     rel="alternate"
-    type="application/rss+xml"
+    type="application/rss+xml7"
     title="RSS Feed"
     href="http://localhost:1313/index.xml"
   />
@@ -41,7 +41,7 @@
 </head>
 
   </head>
-  <body class=" page-article    theme-dark ">
+  <body class=" page-article   ">
     <header>
       <nav class="nav">
   <div class="nav-wrapper">
@@ -246,11 +246,13 @@
 <p class="component-content component">In Israel, the media landscape often amplifies the official line rather than checks it, with instances of hate speech and dehumanisation of Palestinians being commonplace. For example, commentators like Zvi Yehezkeli of Channel 13 downplay the severity of attacks on journalists’ homes and describe humanitarian catastrophes as mere collateral in the quest for victory. This rhetoric reveals a readiness to rationalise atrocities as policy and view the suffering of adversaries as a necessary cost of success.</p>
 <p class="component-content component">This government-endorsed narrative, pushed by outlets like the far-right Channel 14, blends propaganda with reporting, shaping public opinion not with facts but with a continuous stream of destructive doctrine. Law for Palestine, a Europe-based NGO, has documented approximately <a href="https://law4palestine.org/wp-content/uploads/2024/02/Database-of-Israeli-Incitement-to-Genocide-including-after-ICJ-order-27th-February-2024-.pdf">500 statements</a> from Israeli journalists, commentators, and politicians that are genocidal in nature. For example, on an episode of the Patriots Show (Channel 14) on October 8th Noam Fathi commented, “When we see images of bombed buildings in Gaza and dead bodies, I say who cares? It doesn’t interest anyone; we need to do more—it needs to be way stronger.”</p>
 <p class="component-content component">Another commentator, this time on Channel 12, which is the <a href="https://www.keshetinternational.com/keshet-12">most watched station</a> in the country, Yehuda Schlesinger, <a href="https://zionism.observer/yehuda-schlesinger">complained about</a> Gazans finding respite at the beach after months of traumatising Israeli bombardment which has left them without homes, places of work and schools:</p>
-
-
+ 
 <div class="parallax__wrapper">
   <div class="parallax">
-    <div class="parallax__background" style="background-image: url('/images/Yehuda-schlesinger.jpg')"></div>
+    <div
+      class="parallax__background"
+      style="background-image: url('/images/Yehuda-schlesinger.jpg')"
+    ></div>
     <div class="parallax__overlay">
       <blockquote class="parallax__description">Yehuda Schlesinger, calling for a lot more revenge, a lot more rivers of Gazans blood</blockquote>
     </div>
@@ -258,35 +260,35 @@
 </div>
 <script>
   document.addEventListener("DOMContentLoaded", function () {
+    const parallaxScroll = () => {
+      const parallaxSections = document.querySelectorAll(".parallax");
 
-  const parallaxScroll = () => {
-    const parallaxSections = document.querySelectorAll(".parallax")
+      parallaxSections.forEach((parallax) => {
+        const background = parallax.querySelector(".parallax__background");
 
-    parallaxSections.forEach(parallax => {
-      const background = parallax.querySelector(".parallax__background")
+        const overlay = parallax.querySelector(".parallax__overlay");
 
-      const overlay = parallax.querySelector(".parallax__overlay")
+        const wrapper = parallax.closest(".parallax__wrapper");
+        const wrapperTop = wrapper.getBoundingClientRect().top;
 
-      const wrapper = parallax.closest(".parallax__wrapper")
-      const wrapperTop = wrapper.getBoundingClientRect().top
+        console.log(wrapperTop);
 
-      console.log(wrapperTop)
+        if (wrapperTop < -300) {
+          background.style.filter = "brightness(60%)";
+          overlay.style.opacity = 1;
+        } else {
+          background.style.filter = "brightness(100%)";
+          overlay.style.opacity = 0;
+        }
+      });
+    };
 
-      if (wrapperTop < -300) {
-        background.style.filter = "brightness(60%)"
-        overlay.style.opacity = 1
-      } else {
-        background.style.filter = "brightness(100%)"
-        overlay.style.opacity = 0
-      }
-    })
-  }
-
-  window.addEventListener("scroll", () => {
-    parallaxScroll()
-  })
-})
+    window.addEventListener("scroll", () => {
+      parallaxScroll();
+    });
+  });
 </script>
+
 <p class="component-content component">Photo: Screenshot of <a href="https://zionism.observer/quotes/yehuda-schlesinger/these-people-there-in-ga">the interview with Yehuda Schlesinger</a>.</p>
 <p class="component-content component">“These people there [in Gaza] deserve death. A hard death, an agonising death. And instead we see them enjoying on the beach [sic], having fun… There are no innocent people there in the Gaza Strip… They are now enjoying on the beach, instead of starving, being jerked around, being severely tormented and hiding from shelling… We should have seen a lot more revenge, a lot more rivers of Gazans’ blood.”</p>
 <p class="component-content component">The Bosnian Genocide in 1992 provides further stark parallel in the targeting and elimination of journalists who cover genocide. Journalists from around the world converged on the besieged city, but their presence did not shield them from the dangers of war. Sniper fire and random shelling were constant threats as journalists reported from the front lines. The Sarajevo Television building, representing a source of Bosniak resistance through information, was repeatedly targeted by Serb forces. Many journalists were killed while on duty, including those who ventured out to cover the surrounding conflict zones.</p>
@@ -510,7 +512,7 @@
             </script>
           
     
-    <div class="footer-main  footer-dark ">
+    <div class="footer-main ">
   <div class="content-body footer-wraper">
     <div class="footer-box">
       <div class="foot-nav">

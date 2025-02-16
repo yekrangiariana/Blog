@@ -2,9 +2,9 @@
 title: "How Tibet's peaceful nation-building challenges Chinese rule"
 date: 2023-11-14T17:35:28+03:00
 description: "Despite relentless conquests, the struggle for Tibet’s sovereignty extends beyond the protection of its heritage; it's a fight for the nation's very spirit, enduring as the mountains that embrace it."
-author: ""
+author: "Ariana Yekrangi"
 cover: "/images/How-Tibets-Peaceful-Nation-Building-Challenges-Chinese-Rule.jpg"
-tags: ["Tibet","China"]
+tags: ["Tibet", "China"]
 theme: “dark”
 featured: true
 ---
@@ -35,7 +35,6 @@ At this confluence, the Dalai Lama embodies both spiritual sway and secular auth
 
 ![Dalai Lama in 1956 in New Delhi. At just 2 years old, Tenzin Gyatso was identified by Tibetan monks as the 14th Dalai Lama and officially recognised in 1939; he sought refuge in India at 23. © Public Domain|inline](/images/Dalai_Lama_in_1956_in_New_Delhi.jpg)
 
-
 This model of government has not been without its detractors. Critics, including those from the People’s Republic of China who seek to justify their rule, have labelled it as a feudal structure dominated by monastic elites. Such perspectives argue that it curtailed political and religious diversity, leading to periodic sectarian tensions. Nevertheless, the Tibetan government-in-exile maintains that Tibet harbours an innate capacity for self-reform and argues that, in the absence of external interference, an alternative historical path could have unfolded.
 
 The advent of Chinese rule in the twentieth century heralded a significant ideological transition within Tibet. The introduction of a secular, communist system by the new authority was a striking contrast to the spiritual and theocratic fabric that had long been the cornerstone of Tibetan identity.
@@ -46,14 +45,13 @@ At the waning of the 1940s, Mao Zedong’s Communist Party seized control, compe
 
 ![The Dalai Lama, the Panchen Lama and Mao Zedong at the first session of the National People’s Congress. The Seventeen Point Agreement was signed on 24 May 1951. © Public Domain](/images/Dalai-Lama-Pnachen-lama-and-Mao-Zedong.jpg)
 
-
 Amidst this international recognition of Chinese sovereignty, the Seventeen-Point Agreement was forged, signalling the end of Tibet’s nation-building aspirations. This agreement, promising autonomy but enforced by Chinese oversight, effectively dismantled Tibet’s sovereign structures. It absorbed Tibet’s military into China’s, transferred international negotiations to Beijing and mandated that any Tibetan reform occur under a Chinese-led committee. Thus, the agreement laid a complex foundation that complicated Tibetan self-identity and nationhood.
 
 ![At the first National People’s Congress of the People’s Republic of China, the Dalai Lama and Panchen Lama cast their votes for the Constitution amidst political pressures. © Public Domain](/images/Dalai_and_Panchen_voting_for_the_Constitution_of_the_Peoples_Republic_of_China-1024x768.jpg)
 
 Subsequently, the 10th Panchen Lama, traditionally integral to confirming the Dalai Lama’s reincarnation and the second most prominent figure in Tibetan Buddhism, expressed his public endorsement of the agreement, while the Dalai Lama offered his acknowledgement with reservations. However, the semblance of accord was fleeting, as disparities between the promised self-rule and the reality of Chinese control became evident, undermining the agreement’s foundation.
 
-The tumult of 1959, with its brutal suppression of the Tibetan revolt and the mass casualties it wrought, exposed the profound rifts within the region. The unrest precipitated the Dalai Lama’s escape to India on 3 April of that year, inaugurating the Tibetan diaspora and transforming Dharamshala into a sanctuary for those fleeing Chinese rule. The Cultural Revolution, starting in 1966, marked a crusade against ‘counter-revolutionary’ elements, a purge that razed monasteries and sought to erase Tibet’s cultural identity, prioritising Mandarin and diluting local customs. 
+The tumult of 1959, with its brutal suppression of the Tibetan revolt and the mass casualties it wrought, exposed the profound rifts within the region. The unrest precipitated the Dalai Lama’s escape to India on 3 April of that year, inaugurating the Tibetan diaspora and transforming Dharamshala into a sanctuary for those fleeing Chinese rule. The Cultural Revolution, starting in 1966, marked a crusade against ‘counter-revolutionary’ elements, a purge that razed monasteries and sought to erase Tibet’s cultural identity, prioritising Mandarin and diluting local customs.
 
 ![Tsarong Dasang Dramdul, a key moderniser and military figure in early 20th-century Tibet, arrested by the PLA during the 1959 Tibetan uprising against Chinese control, and died in prison amid efforts to suppress Tibetan resistance. © Public Domain|inline](/images/Tsarong-captured.jpg)
 
@@ -64,7 +62,6 @@ A pinnacle of this cultural domination was Beijing’s interference in the selec
 Peace stands as the cornerstone of Tibet’s aspirations for nationhood.  The Dalai Lama’s Middle-Way Approach offers a vision of self-governance within the framework of China, aiming to protect Tibet’s cultural and spiritual identity while respecting Chinese sovereignty. This vision seeks an equilibrium, with Tibetans overseeing their own laws and safeguarding their environment, and the Dalai Lama leading the dialogue with China. Yet, China perceives this as a cloak for separatism, a challenge to its territorial integrity.
 
 ![In Oslo, 1989, the Dalai Lama was honoured with the Nobel Peace Prize for his unwavering commitment to peaceful protest against China’s occupation of Tibet, embodying the Buddhist tenet of non-violence. Photo: Eystein Hanssen © CC BY-NC-SA](/images/the-dalai-lama-and-the-nobel-peace-prize.jpg)
-
 
 ![The 14th Dalai Lama during his visit to the white house. President Obama endorsed the Dalai Lama’s ‘Middle Way’ for Tibet’s autonomy within China, advocating dialogue over differences, while reaffirming US recognition of Tibet as part of China. Photo: The White House © Public Domain|inline](/images/Obama-hugging-the-14th-Dalai-Lama.jpg "How Tibet's Peaceful Nation-Building Challenges Chinese Rule 7")
 
