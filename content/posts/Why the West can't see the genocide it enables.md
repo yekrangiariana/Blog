@@ -13,7 +13,7 @@ featured: false
 
 Are you watching? Or have the architects of this slaughter successfully dulled your senses? Israel is executing a mass murder of Palestinians before our eyes — an extermination campaign broadcast globally, yet met with the deliberate silence and material support of its European and American patrons. Executed by Israeli soldiers with the detachment of a video game, the assault has transformed the very texture of Gaza — entire neighbourhoods pulverised into vast fields of debris, visible even from space.
 
-Children — children — are incinerated in their homes or tents. The population is systematically starved. The massacre proceeds openly, yet it is dismissed as an unavoidable static of “war” by those invested in the outcome.
+Children — children — are incinerated in tents. The population is systematically starved. The massacre proceeds openly, yet it is dismissed as an unavoidable static of “war” by those invested in the outcome.
 
 Instead, we hear threadbare claims of "self-defence" from a Western political class steeped in imperial privilege, comfortable in the capitals that once looted the world. Observe their averted gazes, their incoherent justifications. This is not ignorance; it is cultivated blindness, a strategic opacity fostered over decades to conceal their own histories of conquest and atrocity behind a carefully constructed myth of inherent righteousness.
 
@@ -54,8 +54,6 @@ Ask Iraqis, who are still sifting through the debris of an invasion founded on b
 Ask the Algerians. The Kenyans. The Indians. The list stretches across continents and generations. And above all, ask the Palestinians themselves, condemned to live the perpetual Nakba — the catastrophe of 1948, the rolling ethnic cleansing that inexorably paved the way for this very moment.
 
 We recognise the blueprint instantly — the domination, the dispossession, the relentless dehumanisation — because this exact playbook was refined, again and again, on our lives and our lands.
-
-> It is the cold, calculated execution of a genocide masked by the obscene pretence of preventing one.
 
 This global reckoning with imperial history stands in stark contrast to the narrative crafted in the West, where history in the Middle East is often presented as beginning on October 7th, 2023\. But that date was no genesis — it was a pretext, cynically seized by Israel in its ongoing campaign to solve the Gaza question once and for all. This exterminationist agenda drives the annihilation and ethnic cleansing of occupied Palestine.
 
