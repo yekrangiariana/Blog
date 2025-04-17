@@ -1,6 +1,6 @@
 ---
 title: "Why the West can't see the genocide it enables"
-date: 2025-04-11T13:33:07+03:00
+date: 2025-04-17T12:33:07+03:00
 description: "Experts call it genocide, yet Western allies keep arming Israel. Their willful blindness shields not just the perpetrator, but also the colonial violence that built their own empires."
 author: "Ariana Yekrangi"
 cover: "/images/west-enables-genocide.jpg"
