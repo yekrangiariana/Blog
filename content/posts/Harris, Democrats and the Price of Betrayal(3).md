@@ -8,7 +8,6 @@ tags: ["US", "Israel"]
 theme: “light”
 featured: false
 bsky: ""
-quiz: true
 ---
 
 ![For years, some held onto the dream that the Democratic Party could be reformed, that it might serve as a vehicle for real change. That dream is now dead. Composite: Ariana Yekrangi|big](/images/Harris.jpg.webp)
