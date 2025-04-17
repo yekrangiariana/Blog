@@ -60,6 +60,9 @@
           {{ $content = $content | replaceRE "<ul>" "<div class=\"component-content component\"><ul>" }}
           {{ $content = $content | replaceRE "</ul>" "</ul></div>" }}
           {{ $content | safeHTML }}
+          {{ if .Params.quiz }}
+          {{ partial "quiz.html" . }}
+        {{ end }}
         </div>
         {{ if $notPlainPage }}
         <div class="component">
@@ -82,13 +85,14 @@
                 {{i18n "postDate"}}: {{ .Page.Params.Date | time.Format ":date_long" }}
               </p>
             </div>
+            <div id="comments-section" data-bsky-uri="{{ .Params.bsky }}"></div>
+            {{ $comments := resources.Get "js/comments.js" }}
+            <script src="{{ $comments.RelPermalink }}"></script>
           </div>
-          <div id="comments-section" data-bsky-uri="{{ .Params.bsky }}"></div>
-          {{ $comments := resources.Get "js/comments.js" }}
-          <script src="{{ $comments.RelPermalink }}"></script>
         </div>
         {{ end }}
       </article>
+
     </section>
   </main>
           

@@ -2,102 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ariana Yekrangi</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://arianayekrangi.com/tags/</link>
     <description>Recent content in Tags on Ariana Yekrangi</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Ariana Yekrangi</copyright>
-    <lastBuildDate>Thu, 07 Nov 2024 13:51:42 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Apr 2025 13:33:07 +0300</lastBuildDate>
+    <atom:link href="https://arianayekrangi.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Israel</title>
-      <link>http://localhost:1313/tags/israel/</link>
-      <pubDate>Thu, 07 Nov 2024 13:51:42 +0300</pubDate>
-      <guid>http://localhost:1313/tags/israel/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>US</title>
-      <link>http://localhost:1313/tags/us/</link>
-      <pubDate>Thu, 07 Nov 2024 13:51:42 +0300</pubDate>
-      <guid>http://localhost:1313/tags/us/</guid>
+      <title>Europe</title>
+      <link>https://arianayekrangi.com/tags/europe/</link>
+      <pubDate>Fri, 11 Apr 2025 13:33:07 +0300</pubDate>
+      <guid>https://arianayekrangi.com/tags/europe/</guid>
       <description></description>
     </item>
     <item>
       <title>Gaza</title>
-      <link>http://localhost:1313/tags/gaza/</link>
-      <pubDate>Thu, 09 May 2024 13:58:15 +0300</pubDate>
-      <guid>http://localhost:1313/tags/gaza/</guid>
+      <link>https://arianayekrangi.com/tags/gaza/</link>
+      <pubDate>Fri, 11 Apr 2025 13:33:07 +0300</pubDate>
+      <guid>https://arianayekrangi.com/tags/gaza/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Israel</title>
+      <link>https://arianayekrangi.com/tags/israel/</link>
+      <pubDate>Fri, 11 Apr 2025 13:33:07 +0300</pubDate>
+      <guid>https://arianayekrangi.com/tags/israel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>US</title>
+      <link>https://arianayekrangi.com/tags/us/</link>
+      <pubDate>Fri, 11 Apr 2025 13:33:07 +0300</pubDate>
+      <guid>https://arianayekrangi.com/tags/us/</guid>
       <description></description>
     </item>
     <item>
       <title>Journalism</title>
-      <link>http://localhost:1313/tags/journalism/</link>
+      <link>https://arianayekrangi.com/tags/journalism/</link>
       <pubDate>Thu, 09 May 2024 13:58:15 +0300</pubDate>
-      <guid>http://localhost:1313/tags/journalism/</guid>
+      <guid>https://arianayekrangi.com/tags/journalism/</guid>
       <description></description>
     </item>
     <item>
       <title>Iran</title>
-      <link>http://localhost:1313/tags/iran/</link>
+      <link>https://arianayekrangi.com/tags/iran/</link>
       <pubDate>Sun, 07 Apr 2024 17:18:50 +0300</pubDate>
-      <guid>http://localhost:1313/tags/iran/</guid>
+      <guid>https://arianayekrangi.com/tags/iran/</guid>
       <description></description>
     </item>
     <item>
       <title>China</title>
-      <link>http://localhost:1313/tags/china/</link>
+      <link>https://arianayekrangi.com/tags/china/</link>
       <pubDate>Tue, 14 Nov 2023 17:35:28 +0300</pubDate>
-      <guid>http://localhost:1313/tags/china/</guid>
+      <guid>https://arianayekrangi.com/tags/china/</guid>
       <description></description>
     </item>
     <item>
       <title>Tibet</title>
-      <link>http://localhost:1313/tags/tibet/</link>
+      <link>https://arianayekrangi.com/tags/tibet/</link>
       <pubDate>Tue, 14 Nov 2023 17:35:28 +0300</pubDate>
-      <guid>http://localhost:1313/tags/tibet/</guid>
+      <guid>https://arianayekrangi.com/tags/tibet/</guid>
       <description></description>
     </item>
     <item>
       <title>Germany</title>
-      <link>http://localhost:1313/tags/germany/</link>
+      <link>https://arianayekrangi.com/tags/germany/</link>
       <pubDate>Sun, 11 Jun 2023 18:28:39 +0300</pubDate>
-      <guid>http://localhost:1313/tags/germany/</guid>
+      <guid>https://arianayekrangi.com/tags/germany/</guid>
       <description></description>
     </item>
     <item>
       <title>Turkey</title>
-      <link>http://localhost:1313/tags/turkey/</link>
+      <link>https://arianayekrangi.com/tags/turkey/</link>
       <pubDate>Sun, 11 Jun 2023 18:28:39 +0300</pubDate>
-      <guid>http://localhost:1313/tags/turkey/</guid>
+      <guid>https://arianayekrangi.com/tags/turkey/</guid>
       <description></description>
     </item>
     <item>
       <title>Russia</title>
-      <link>http://localhost:1313/tags/russia/</link>
+      <link>https://arianayekrangi.com/tags/russia/</link>
       <pubDate>Tue, 11 Apr 2023 03:04:03 +0300</pubDate>
-      <guid>http://localhost:1313/tags/russia/</guid>
+      <guid>https://arianayekrangi.com/tags/russia/</guid>
       <description></description>
     </item>
     <item>
       <title>Armenia</title>
-      <link>http://localhost:1313/tags/armenia/</link>
+      <link>https://arianayekrangi.com/tags/armenia/</link>
       <pubDate>Sat, 08 Aug 2020 15:45:33 +0300</pubDate>
-      <guid>http://localhost:1313/tags/armenia/</guid>
+      <guid>https://arianayekrangi.com/tags/armenia/</guid>
       <description></description>
     </item>
     <item>
       <title>Azerbaijan</title>
-      <link>http://localhost:1313/tags/azerbaijan/</link>
+      <link>https://arianayekrangi.com/tags/azerbaijan/</link>
       <pubDate>Sat, 08 Aug 2020 15:45:33 +0300</pubDate>
-      <guid>http://localhost:1313/tags/azerbaijan/</guid>
+      <guid>https://arianayekrangi.com/tags/azerbaijan/</guid>
       <description></description>
     </item>
     <item>
       <title>Nagorno-Karabakh</title>
-      <link>http://localhost:1313/tags/nagorno-karabakh/</link>
+      <link>https://arianayekrangi.com/tags/nagorno-karabakh/</link>
       <pubDate>Sat, 08 Aug 2020 15:45:33 +0300</pubDate>
-      <guid>http://localhost:1313/tags/nagorno-karabakh/</guid>
+      <guid>https://arianayekrangi.com/tags/nagorno-karabakh/</guid>
       <description></description>
     </item>
   </channel>
