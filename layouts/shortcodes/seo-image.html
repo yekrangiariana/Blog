@@ -1,0 +1,38 @@
+{{- $src := .Get "src" -}} {{- $alt := .Get "alt" | default "Image" -}} {{-
+$caption := .Get "caption" -}} {{- $class := .Get "class" | default "" -}} {{-
+$width := .Get "width" | default "auto" -}} {{- $height := .Get "height" |
+default "auto" -}} {{- $lazy := .Get "lazy" | default true -}}
+
+<figure class="seo-figure {{ $class }}">
+  <img
+    src="{{ $src }}"
+    alt="{{ $alt }}"
+    {{
+    if
+    eq
+    $lazy
+    true
+    }}loading="lazy"
+    {{
+    end
+    }}
+    {{
+    with
+    $width
+    }}width="{{ . }}"
+    {{
+    end
+    }}
+    {{
+    with
+    $height
+    }}height="{{ . }}"
+    {{
+    end
+    }}
+    class="seo-image"
+  />
+  {{ with $caption }}
+  <figcaption class="seo-caption">{{ . }}</figcaption>
+  {{ end }}
+</figure>

@@ -1,0 +1,12 @@
+User-agent: *
+
+Allow: /
+
+
+# Block specific folders
+Disallow: /private/
+Disallow: /admin/
+Disallow: /drafts/
+
+# Sitemap locations
+Sitemap: http://localhost:1313/sitemap.xml

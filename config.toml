@@ -7,6 +7,15 @@ copyright = 'Ariana Yekrangi'
 theme = 'ctheme'
 pagination.pagerSize = 10
 
+# Enable automatic sitemap generation
+enableRobotsTXT = true
+enableGitInfo = true
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
 [taxonomy]
   tag = "tags"
   category = "categories"
@@ -15,6 +24,15 @@ pagination.pagerSize = 10
 [params]
   defaultCover = ''
   email = 'yekrangiariana[at]gmail.com'
+  # SEO Configuration
+  [params.seo]
+    enableOpenGraph = true
+    enableTwitterCards = true
+    enableSchemaOrg = true
+    enableRobotsTXT = true
+    description = "Ariana Yekrangi's personal website featuring articles on global politics, human rights, and social issues."
+    keywords = "politics, journalism, human rights, global affairs, social issues"
+    images = ["images/Logo-ariana-yekrangi.png"]
   [[params.socialMedia]]
     name = 'Twitter'
     url = 'https://x.com/YekrangiAriana'

@@ -1,0 +1,14 @@
+User-agent: *
+{{ if .Site.Params.seo.enableRobotsTXT }}
+Allow: /
+{{ else }}
+Disallow: /
+{{ end }}
+
+# Block specific folders
+Disallow: /private/
+Disallow: /admin/
+Disallow: /drafts/
+
+# Sitemap locations
+Sitemap: {{ "sitemap.xml" | absURL }}
