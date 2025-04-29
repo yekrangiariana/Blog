@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Journalism on Ariana Yekrangi</title>
-    <link>https://arianayekrangi.com/tags/journalism/</link>
+    <link>http://localhost:1313/tags/journalism/</link>
     <description>Recent content in Journalism on Ariana Yekrangi</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Ariana Yekrangi</copyright>
     <lastBuildDate>Thu, 09 May 2024 13:58:15 +0300</lastBuildDate>
-    <atom:link href="https://arianayekrangi.com/tags/journalism/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/journalism/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>“We’ve seen this before”: Inside Israel’s war on truth, journalists and the free media</title>
-      <link>https://arianayekrangi.com/posts/inside-israels-war-on-truth-journalists-and-the-free-media2/</link>
+      <link>http://localhost:1313/posts/inside-israels-war-on-truth-journalists-and-the-free-media2/</link>
       <pubDate>Thu, 09 May 2024 13:58:15 +0300</pubDate>
-      <guid>https://arianayekrangi.com/posts/inside-israels-war-on-truth-journalists-and-the-free-media2/</guid>
-      <description>&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;figure class=&#34;image component image-fullbleed body-copy-wide nr-scroll-animation nr-scroll-animation--on image-big&#34;&gt;  &lt;div class=&#34;component-content&#34;&gt;&#xA;    &lt;div class=&#34;image-sharesheet&#34;&gt;&#xA;      &lt;div class=&#34;image image-load image-asset image-b7fb6f4f694837f72854af250b3ec264&#34; id=&#34;lhtb7fb6f4f694837f72854af250b3ec264&#34;&gt;&#xA;        &lt;picture  class=&#34;picture&#34;&gt;&#xA;          &lt;img class=&#34;picture-image&#34; data-src=&#34;https://arianayekrangi.com/images/Israel%20war%20on%20truth.jpg&#34; alt=&#34;Every attempt to mask the truth only draws more attention to it, and history is not kind to those who wage war not just on people, but on facts themselves.” Composite: Ariana Yekrangi|big&#34;  /&gt;&#xA;        &lt;/picture&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;image-description&#34;&gt;&#xA;      &lt;div class=&#34;image-caption&#34;&gt;&#xA;        Every attempt to mask the truth only draws more attention to it, and history is not kind to those who wage war not just on people, but on facts themselves.” Composite: Ariana Yekrangi&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/inside-israels-war-on-truth-journalists-and-the-free-media2/</guid>
+      <description>&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;figure class=&#34;image component image-fullbleed body-copy-wide nr-scroll-animation nr-scroll-animation--on image-big&#34;&gt;  &lt;div class=&#34;component-content&#34;&gt;&#xA;    &lt;div class=&#34;image-sharesheet&#34;&gt;&#xA;      &lt;div class=&#34;image image-load image-asset image-b7fb6f4f694837f72854af250b3ec264&#34; id=&#34;lhtb7fb6f4f694837f72854af250b3ec264&#34;&gt;&#xA;        &lt;picture  class=&#34;picture&#34;&gt;&#xA;          &lt;img class=&#34;picture-image&#34; data-src=&#34;http://localhost:1313/images/Israel%20war%20on%20truth.jpg&#34; alt=&#34;Every attempt to mask the truth only draws more attention to it, and history is not kind to those who wage war not just on people, but on facts themselves.” Composite: Ariana Yekrangi|big&#34;  /&gt;&#xA;        &lt;/picture&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;image-description&#34;&gt;&#xA;      &lt;div class=&#34;image-caption&#34;&gt;&#xA;        Every attempt to mask the truth only draws more attention to it, and history is not kind to those who wage war not just on people, but on facts themselves.” Composite: Ariana Yekrangi&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
