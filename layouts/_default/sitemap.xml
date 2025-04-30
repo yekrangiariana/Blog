@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml"
-  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
-  xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   {{ range .Data.Pages }}
   {{ if not .Params.noindex }}
   <url>
@@ -19,41 +16,6 @@
     <priority>{{ .Sitemap.Priority }}</priority>
     {{ else }}
     <priority>{{ $.Sitemap.Priority }}</priority>
-    {{ end }}
-    
-    {{ if .IsTranslated }}
-    {{ range .Translations }}
-    <xhtml:link
-      rel="alternate"
-      hreflang="{{ .Language.Lang }}"
-      href="{{ .Permalink }}"
-    />
-    {{ end }}
-    <xhtml:link
-      rel="alternate"
-      hreflang="{{ .Language.Lang }}"
-      href="{{ .Permalink }}"
-    />
-    {{ end }}
-    
-    <!-- Add image information if available -->
-    {{ with .Params.cover }}
-    <image:image>
-      <image:loc>{{ . | absURL }}</image:loc>
-      <image:title>{{ $.Title }}</image:title>
-    </image:image>
-    {{ end }}
-    
-    <!-- Add news-specific information for recent content -->
-    {{ if and (eq .Type "posts") (lt (sub now.Unix .Date.Unix) 86400) }}
-    <news:news>
-      <news:publication>
-        <news:name>{{ $.Site.Title }}</news:name>
-        <news:language>{{ $.Site.Language.Lang }}</news:language>
-      </news:publication>
-      <news:publication_date>{{ .Date.Format "2006-01-02" }}</news:publication_date>
-      <news:title>{{ .Title }}</news:title>
-    </news:news>
     {{ end }}
   </url>
   {{ end }}
