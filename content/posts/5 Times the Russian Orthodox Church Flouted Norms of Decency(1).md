@@ -3,7 +3,7 @@ title: "Five times the Russian Orthodox church flouted norms of decency"
 date: 2021-02-05T15:32:12+03:00
 description: "Under the former communist regime, the Russian Orthodox Church (ROC) was suppressed, its properties confiscated and its followers harassed and imprisoned. This was until a Messiah came along. He promised the church fortune, a return to traditional values, a trip to simpler times when the state and church washed filth off each others’ backs."
 author: "Ariana Yekrangi"
-cover: "/images/John-Chrysostom-with-Basil-of-Caesarea-and-Gregory-of-Nazianzus-on-a-late-15th-century-icon-of-the-Three-Holy-Hierarchs-from-the-Cathedral-of-St-Sophia2C-Novgorod.jpg@0.5x.png"
+cover: "/images/the-three-holy-hierarchs.webp"
 tags: ["Russia"]
 theme: “light”
 featured: false
