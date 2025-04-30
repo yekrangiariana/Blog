@@ -9,4 +9,4 @@ Disallow: /admin/
 Disallow: /drafts/
 
 # Sitemap locations
-Sitemap: https://arianayekrangi.com/sitemap.xml
+Sitemap: http://localhost:58205/sitemap.xml

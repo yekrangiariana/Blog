@@ -1,7 +1,7 @@
-import params from "@params"
+import params from "@params";
 // console.log("postInit.js loaded");
 var scriptMd5 = document.createElement("script");
-scriptMd5.src =  `${params.baseURL}js/md5.js`;
+scriptMd5.src = `${params.baseURL}js/md5.js`;
 document.head.appendChild(scriptMd5);
 
 scriptMd5.onload = function () {
@@ -10,11 +10,11 @@ scriptMd5.onload = function () {
   syntaxHighlight();
   // step2. lazyload
   initLazyLoad();
-}
+};
 
 function initLazyLoad() {
   var script = document.createElement("script");
-  script.src =  `${params.baseURL}js/animation.js`;
+  script.src = `${params.baseURL}js/animation.js`;
   document.head.appendChild(script);
 
   script.onload = function () {
@@ -37,45 +37,43 @@ function initLazyLoad() {
       };
       img.onerror = function () {
         loadImage(index + 1);
-      }
-    }
+      };
+    };
 
     loadAnimation = (item) => {
-      if(item.classList.contains("image-loaded")) return;
+      if (item.classList.contains("image-loaded")) return;
       let grandSon = item.children[0].children[0];
       let img = new Image();
       img.src = grandSon.src;
       let sign = md5(grandSon.src);
 
-      let target = document.getElementById(`lht${sign}`)
-      if (!target)  {
-          // If an absolute path is used as the image link, such as "/static/img.png",
-          // the URL of grandSon.src will become "https://example.com/static/img.png", resulting in a different md5.
-          // Therefore, we attempt to handle this situation by trying again with the absolute path.
-          const a = document.createElement('a');
-          a.href = grandSon.src;
-          sign = md5(a.pathname);
+      let target = document.getElementById(`lht${sign}`);
+      if (!target) {
+        // If an absolute path is used as the image link, such as "/static/img.png",
+        // the URL of grandSon.src will become "https://example.com/static/img.png", resulting in a different md5.
+        // Therefore, we attempt to handle this situation by trying again with the absolute path.
+        const a = document.createElement("a");
+        a.href = grandSon.src;
+        sign = md5(a.pathname);
       }
 
       img.onload = function () {
         let percent = ((img.height / img.width) * 100).toFixed(5);
         var style = document.createElement("style");
         style.innerHTML = renderStyle(sign, percent);
-        let target = document.getElementById(`lht${sign}`)
+        let target = document.getElementById(`lht${sign}`);
 
         if (!target) return;
 
         target.parentNode.insertBefore(style, target);
         item.classList.remove("image-load");
         item.classList.add("image-loaded");
-      }
-
-    }
+      };
+    };
 
     initImage();
   };
 }
-
 
 function renderStyle(sign, percent) {
   return `
@@ -99,7 +97,7 @@ function renderStyle(sign, percent) {
     padding-top: ${percent}%;
     height: auto;
   }
-  };`
+  };`;
 }
 
 function syntaxHighlight() {
@@ -109,11 +107,13 @@ function syntaxHighlight() {
 
   var styleLight = document.createElement("link");
   styleLight.rel = "stylesheet";
-  styleLight.href = "//cdn.staticfile.org/highlight.js/11.7.0/styles/stackoverflow-light.min.css";
+  styleLight.href =
+    "//cdn.staticfile.org/highlight.js/11.7.0/styles/stackoverflow-light.min.css";
 
   var styleDark = document.createElement("link");
   styleDark.rel = "stylesheet";
-  styleDark.href = "//cdn.staticfile.org/highlight.js/11.7.0/styles/stackoverflow-dark.min.css";
+  styleDark.href =
+    "//cdn.staticfile.org/highlight.js/11.7.0/styles/stackoverflow-dark.min.css";
 
   if (document.querySelector("body").classList.contains("theme-dark")) {
     document.head.appendChild(styleDark);
@@ -125,9 +125,9 @@ function syntaxHighlight() {
     // console.log("hljs.js loaded");
     // 忽略未转义的HTML警告，自己的md文档默认可信
     hljs.configure({
-      ignoreUnescapedHTML: true
+      ignoreUnescapedHTML: true,
     });
-    document.querySelectorAll('pre code').forEach((el) => {
+    document.querySelectorAll("pre code").forEach((el) => {
       hljs.highlightElement(el);
     });
   };
