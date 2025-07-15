@@ -9,7 +9,7 @@ theme: “light”
 featured: false
 ---
 
-![`Gas the Arabs` painted on the gate outside a Palestinian home in Hebron by Israeli settlers. It is signed `JDL` (Jewish Defence League). Photo: Magne Hagesæter © CC BY 3.0|big](/images/gas-the-arabs-graffiti.jpg)
+![Gas the Arabs painted on the gate outside a Palestinian home in Hebron by Israeli settlers. It is signed JDL (Jewish Defence League). Photo: Magne Hagesæter © CC BY 3.0|big](/images/gas-the-arabs-graffiti.jpg)
 
 Some ideas are not debates. They are autopsies. You do not reason with a tumour; you excise it. Zionism, as a political project, is the diseased organ, and the state of Israel is its grotesque manifestation. In a spectacle of mechanised slaughter broadcast to the phones in our hands, it has proven that its foundational supremacism leads, as it always must, to the abattoir. Its political form must therefore be dismantled. Advocacy for a “two-state solution”, a proposal to partition historic Palestine into an explicitly Jewish ethno-state, has surpassed a mere failure of imagination to become an act of moral idiocy—a mumbled incantation over a corpse, serving only to grant the murderers more time.
 

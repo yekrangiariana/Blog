@@ -3,24 +3,9 @@
   
   
   <url>
-    <loc>https://arianayekrangi.com/</loc>
+    <loc>http://localhost:1313/</loc>
     
-    <lastmod>2025-06-15T13:33:07+03:00</lastmod>
-    
-    
-    <changefreq>weekly</changefreq>
-    
-    
-    <priority>0.5</priority>
-    
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://arianayekrangi.com/tags/israel/</loc>
-    
-    <lastmod>2025-06-15T13:33:07+03:00</lastmod>
+    <lastmod>2025-07-15T12:41:07+03:00</lastmod>
     
     
     <changefreq>weekly</changefreq>
@@ -33,24 +18,9 @@
   
   
   <url>
-    <loc>https://arianayekrangi.com/posts/</loc>
+    <loc>http://localhost:1313/tags/israel/</loc>
     
-    <lastmod>2025-06-15T13:33:07+03:00</lastmod>
-    
-    
-    <changefreq>weekly</changefreq>
-    
-    
-    <priority>0.5</priority>
-    
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://arianayekrangi.com/tags/</loc>
-    
-    <lastmod>2025-06-15T13:33:07+03:00</lastmod>
+    <lastmod>2025-07-15T12:41:07+03:00</lastmod>
     
     
     <changefreq>weekly</changefreq>
@@ -63,9 +33,9 @@
   
   
   <url>
-    <loc>https://arianayekrangi.com/posts/the-zionist-experiment-has-failed-it-must-be-abolished/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     
-    <lastmod>2025-06-15T13:33:07+03:00</lastmod>
+    <lastmod>2025-07-15T12:41:07+03:00</lastmod>
     
     
     <changefreq>weekly</changefreq>
@@ -78,7 +48,37 @@
   
   
   <url>
-    <loc>https://arianayekrangi.com/tags/europe/</loc>
+    <loc>http://localhost:1313/tags/</loc>
+    
+    <lastmod>2025-07-15T12:41:07+03:00</lastmod>
+    
+    
+    <changefreq>weekly</changefreq>
+    
+    
+    <priority>0.5</priority>
+    
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:1313/posts/the-zionist-experiment-has-failed-it-must-be-abolished/</loc>
+    
+    <lastmod>2025-07-15T12:41:07+03:00</lastmod>
+    
+    
+    <changefreq>weekly</changefreq>
+    
+    
+    <priority>0.5</priority>
+    
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:1313/tags/europe/</loc>
     
     <lastmod>2025-04-20T06:05:44+03:00</lastmod>
     
@@ -93,7 +93,7 @@
   
   
   <url>
-    <loc>https://arianayekrangi.com/tags/gaza/</loc>
+    <loc>http://localhost:1313/tags/gaza/</loc>
     
     <lastmod>2025-04-20T06:05:44+03:00</lastmod>
     
@@ -108,7 +108,7 @@
   
   
   <url>
-    <loc>https://arianayekrangi.com/tags/us/</loc>
+    <loc>http://localhost:1313/tags/us/</loc>
     
     <lastmod>2025-04-20T06:05:44+03:00</lastmod>
     
@@ -123,7 +123,7 @@
   
   
   <url>
-    <loc>https://arianayekrangi.com/posts/why-the-west-cant-see-the-genocide-it-enables/</loc>
+    <loc>http://localhost:1313/posts/why-the-west-cant-see-the-genocide-it-enables/</loc>
     
     <lastmod>2025-04-20T06:05:44+03:00</lastmod>
     
@@ -138,7 +138,7 @@
   
   
   <url>
-    <loc>https://arianayekrangi.com/posts/harris-democrats-and-the-price-of-betrayal3/</loc>
+    <loc>http://localhost:1313/posts/harris-democrats-and-the-price-of-betrayal3/</loc>
     
     <lastmod>2025-04-17T15:04:29+03:00</lastmod>
     
@@ -153,7 +153,7 @@
   
   
   <url>
-    <loc>https://arianayekrangi.com/posts/why-trumps-assassination-attempt-is-unworthy-to-steal-headlines-copy/</loc>
+    <loc>http://localhost:1313/posts/why-trumps-assassination-attempt-is-unworthy-to-steal-headlines-copy/</loc>
     
     <lastmod>2024-07-15T13:33:07+03:00</lastmod>
     
@@ -168,7 +168,7 @@
   
   
   <url>
-    <loc>https://arianayekrangi.com/posts/inside-israels-war-on-truth-journalists-and-the-free-media2/</loc>
+    <loc>http://localhost:1313/posts/inside-israels-war-on-truth-journalists-and-the-free-media2/</loc>
     
     <lastmod>2024-05-09T13:58:15+03:00</lastmod>
     
@@ -183,7 +183,7 @@
   
   
   <url>
-    <loc>https://arianayekrangi.com/tags/journalism/</loc>
+    <loc>http://localhost:1313/tags/journalism/</loc>
     
     <lastmod>2024-05-09T13:58:15+03:00</lastmod>
     
@@ -198,7 +198,7 @@
   
   
   <url>
-    <loc>https://arianayekrangi.com/posts/how-iranian-monarchists-are-championing-israels-deadly-onslaught-on-palestineariana-yekrangi/</loc>
+    <loc>http://localhost:1313/posts/how-iranian-monarchists-are-championing-israels-deadly-onslaught-on-palestineariana-yekrangi/</loc>
     
     <lastmod>2024-04-07T17:18:50+03:00</lastmod>
     
@@ -213,7 +213,7 @@
   
   
   <url>
-    <loc>https://arianayekrangi.com/tags/iran/</loc>
+    <loc>http://localhost:1313/tags/iran/</loc>
     
     <lastmod>2025-02-04T12:59:25+02:00</lastmod>
     
@@ -228,7 +228,7 @@
   
   
   <url>
-    <loc>https://arianayekrangi.com/posts/looking-away-from-gaza-will-not-assuage-our-conscience-only-action-will/</loc>
+    <loc>http://localhost:1313/posts/looking-away-from-gaza-will-not-assuage-our-conscience-only-action-will/</loc>
     
     <lastmod>2025-02-12T11:34:16+02:00</lastmod>
     
@@ -243,7 +243,7 @@
   
   
   <url>
-    <loc>https://arianayekrangi.com/tags/china/</loc>
+    <loc>http://localhost:1313/tags/china/</loc>
     
     <lastmod>2025-02-16T21:01:04+02:00</lastmod>
     
@@ -258,7 +258,7 @@
   
   
   <url>
-    <loc>https://arianayekrangi.com/posts/how-tibets-peaceful-nation-building-challenges-chinese-rule/</loc>
+    <loc>http://localhost:1313/posts/how-tibets-peaceful-nation-building-challenges-chinese-rule/</loc>
     
     <lastmod>2025-02-16T21:01:04+02:00</lastmod>
     
@@ -273,7 +273,7 @@
   
   
   <url>
-    <loc>https://arianayekrangi.com/tags/tibet/</loc>
+    <loc>http://localhost:1313/tags/tibet/</loc>
     
     <lastmod>2025-02-16T21:01:04+02:00</lastmod>
     
@@ -288,7 +288,7 @@
   
   
   <url>
-    <loc>https://arianayekrangi.com/posts/bombing-civilian-areas--killing-children-is-wrong.-even-for-revenge-especially-for-revenge/</loc>
+    <loc>http://localhost:1313/posts/bombing-civilian-areas--killing-children-is-wrong.-even-for-revenge-especially-for-revenge/</loc>
     
     <lastmod>2025-02-04T12:59:25+02:00</lastmod>
     
@@ -303,7 +303,7 @@
   
   
   <url>
-    <loc>https://arianayekrangi.com/tags/germany/</loc>
+    <loc>http://localhost:1313/tags/germany/</loc>
     
     <lastmod>2025-02-04T15:26:14+02:00</lastmod>
     
@@ -318,7 +318,7 @@
   
   
   <url>
-    <loc>https://arianayekrangi.com/posts/the-love-for-erdogans-autocracy-in-the-heart-of-german-democracy/</loc>
+    <loc>http://localhost:1313/posts/the-love-for-erdogans-autocracy-in-the-heart-of-german-democracy/</loc>
     
     <lastmod>2025-02-04T15:26:14+02:00</lastmod>
     
@@ -333,7 +333,7 @@
   
   
   <url>
-    <loc>https://arianayekrangi.com/tags/turkey/</loc>
+    <loc>http://localhost:1313/tags/turkey/</loc>
     
     <lastmod>2025-02-04T15:26:14+02:00</lastmod>
     
@@ -348,7 +348,7 @@
   
   
   <url>
-    <loc>https://arianayekrangi.com/tags/russia/</loc>
+    <loc>http://localhost:1313/tags/russia/</loc>
     
     <lastmod>2025-04-30T13:29:54+03:00</lastmod>
     
@@ -363,7 +363,7 @@
   
   
   <url>
-    <loc>https://arianayekrangi.com/posts/fugitive-war-criminal-assumes-unsc-role/</loc>
+    <loc>http://localhost:1313/posts/fugitive-war-criminal-assumes-unsc-role/</loc>
     
     <lastmod>2025-02-04T12:59:25+02:00</lastmod>
     
@@ -378,7 +378,7 @@
   
   
   <url>
-    <loc>https://arianayekrangi.com/posts/leaked-file-uncovers-how-the-iranian-revolutionary-guards-plan-to-quell-protests/</loc>
+    <loc>http://localhost:1313/posts/leaked-file-uncovers-how-the-iranian-revolutionary-guards-plan-to-quell-protests/</loc>
     
     <lastmod>2025-02-04T12:59:25+02:00</lastmod>
     
@@ -393,7 +393,7 @@
   
   
   <url>
-    <loc>https://arianayekrangi.com/posts/from-zahhak-to-the-islamic-republic-of-iran-has-ferdowsi-prophesied-the-future-of-the-republic-/</loc>
+    <loc>http://localhost:1313/posts/from-zahhak-to-the-islamic-republic-of-iran-has-ferdowsi-prophesied-the-future-of-the-republic-/</loc>
     
     <lastmod>2025-02-04T12:59:25+02:00</lastmod>
     
@@ -408,7 +408,7 @@
   
   
   <url>
-    <loc>https://arianayekrangi.com/posts/5-benefits-of-legalising-drugs-that-may-change-your-perspective-/</loc>
+    <loc>http://localhost:1313/posts/5-benefits-of-legalising-drugs-that-may-change-your-perspective-/</loc>
     
     <lastmod>2025-04-29T08:24:58+03:00</lastmod>
     
@@ -423,7 +423,7 @@
   
   
   <url>
-    <loc>https://arianayekrangi.com/posts/gdp-is-an-impostor-so-why-are-we-still-using-it-to-measure-happiness/</loc>
+    <loc>http://localhost:1313/posts/gdp-is-an-impostor-so-why-are-we-still-using-it-to-measure-happiness/</loc>
     
     <lastmod>2025-02-04T15:57:01+02:00</lastmod>
     
@@ -438,7 +438,7 @@
   
   
   <url>
-    <loc>https://arianayekrangi.com/posts/5-times-the-russian-orthodox-church-flouted-norms-of-decency1/</loc>
+    <loc>http://localhost:1313/posts/5-times-the-russian-orthodox-church-flouted-norms-of-decency1/</loc>
     
     <lastmod>2025-04-30T13:29:54+03:00</lastmod>
     
@@ -453,7 +453,7 @@
   
   
   <url>
-    <loc>https://arianayekrangi.com/posts/how-cultivated-meat-can-save-the-planet/</loc>
+    <loc>http://localhost:1313/posts/how-cultivated-meat-can-save-the-planet/</loc>
     
     <lastmod>2025-02-12T13:43:26+02:00</lastmod>
     
@@ -468,7 +468,7 @@
   
   
   <url>
-    <loc>https://arianayekrangi.com/posts/democracy-vs-anarchy-which-one-is-better/</loc>
+    <loc>http://localhost:1313/posts/democracy-vs-anarchy-which-one-is-better/</loc>
     
     <lastmod>2025-02-04T15:57:01+02:00</lastmod>
     
@@ -483,7 +483,7 @@
   
   
   <url>
-    <loc>https://arianayekrangi.com/posts/hagia-sophia-national-sovereignty-is-not-the-issue-erdogan-likes-to-play-the-blaming-game/</loc>
+    <loc>http://localhost:1313/posts/hagia-sophia-national-sovereignty-is-not-the-issue-erdogan-likes-to-play-the-blaming-game/</loc>
     
     <lastmod>2025-02-04T15:57:01+02:00</lastmod>
     
@@ -498,7 +498,7 @@
   
   
   <url>
-    <loc>https://arianayekrangi.com/tags/armenia/</loc>
+    <loc>http://localhost:1313/tags/armenia/</loc>
     
     <lastmod>2025-02-04T15:57:01+02:00</lastmod>
     
@@ -513,7 +513,7 @@
   
   
   <url>
-    <loc>https://arianayekrangi.com/tags/azerbaijan/</loc>
+    <loc>http://localhost:1313/tags/azerbaijan/</loc>
     
     <lastmod>2025-02-04T15:57:01+02:00</lastmod>
     
@@ -528,7 +528,7 @@
   
   
   <url>
-    <loc>https://arianayekrangi.com/tags/nagorno-karabakh/</loc>
+    <loc>http://localhost:1313/tags/nagorno-karabakh/</loc>
     
     <lastmod>2025-02-04T15:57:01+02:00</lastmod>
     
@@ -543,7 +543,7 @@
   
   
   <url>
-    <loc>https://arianayekrangi.com/posts/the-osce-minsk-group-is-unfit-to-conciliate-between-azerbaijan--armenia-over-nagorno-karabakh/</loc>
+    <loc>http://localhost:1313/posts/the-osce-minsk-group-is-unfit-to-conciliate-between-azerbaijan--armenia-over-nagorno-karabakh/</loc>
     
     <lastmod>2025-02-04T15:57:01+02:00</lastmod>
     
@@ -558,7 +558,7 @@
   
   
   <url>
-    <loc>https://arianayekrangi.com/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     
     <lastmod>2025-02-14T13:43:07+02:00</lastmod>
     
@@ -573,7 +573,7 @@
   
   
   <url>
-    <loc>https://arianayekrangi.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     
     
     <changefreq>weekly</changefreq>
